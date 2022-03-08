@@ -1,44 +1,34 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <title>Chickpea and Cauliflower Curry</title>
-  </head>
-  <body>
-    
-    <h1>Chickpea and Cauliflower Curry</h1>
-
-    <h2>Ingredients</h2>
-    <ul>
-        <li>4 tablespoons red curry paste</li>
-        <li>1 teaspoon ginger, minced</li>
-        <li>1 white onion, diced</li>
-        <li>4 cloves garlic, minced</li>
-        <li>1 red bell pepper, diced</li>
-        <li>1 14-oz can coconut milk</li>
-        <li>1 14-oz can chickpeas, drained and rinsed</li>
-        <li>1 14-oz can diced tomatoes</li>
-        <li>1 small head cauliflower, broken into small florets</li>
-        <li>naan</li>
-    </ul>
-
-    <h2>Steps</h2>
-    <ol>
-        <li>Heat a dutch oven over medium heat.</li>
-        <li>Add the curry paste and cook until fragrant, about 2 minutes.</li>
-        <li>Add the ginger, white onion, garlic, and red bell pepper.</li>
-        <li>Cook until tender and fragrant, about 5 minutes. Add a tablespoon or two of water if needed to avoid sticking to the pan.</li>
-        <li>Add the coconut milk, chickpeas, diced tomatoes, and cauliflower.</li>
-        <li>Bring to a boil and then reduce to a simmer.</li>
-        <li>Season to taste with salt and pepper.</li>
-        <li>Simmer until the cauliflower is tender and the sauce is thick and bubbly, about 10 minutes.</li>
-        <li>Serve over rice with the naan.</li>
-    </ol>
-    
-    <footer>
-    Date Added: 2021-02-14
-    </footer>
-
-</body></html>
+<head><title>Chickpea and Cauliflower Curry</title></head>
+<body>
+<h1>Chickpea and Cauliflower Curry</h1>
+<h2>Ingredients</h2>
+<ul>
+  <li>4 tablespoons red curry paste</li>
+  <li>1 teaspoon ginger, minced</li>
+  <li>1 white onion, diced</li>
+  <li>4 cloves garlic, minced</li>
+  <li>1 red bell pepper, diced</li>
+  <li>1 14-oz can coconut milk</li>
+  <li>1 14-oz can chickpeas, drained and rinsed</li>
+  <li>1 14-oz can diced tomatoes</li>
+  <li>1 small head cauliflower, broken into small florets</li>
+  <li>naan</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+  <li>Heat a dutch oven over medium heat.</li>
+  <li>Add the curry paste and cook until fragrant, about 2 minutes.</li>
+  <li>Add the ginger, white onion, garlic, and red bell pepper.</li>
+  <li>Cook until tender and fragrant, about 5 minutes. Add a tablespoon or two of water if needed to avoid sticking to the pan.</li>
+  <li>Add the coconut milk, chickpeas, diced tomatoes, and cauliflower.</li>
+  <li>Bring to a boil and then reduce to a simmer.</li>
+  <li>Season to taste with salt and pepper.</li>
+  <li>Simmer until the cauliflower is tender and the sauce is thick and bubbly, about 10 minutes.</li>
+  <li>Serve over rice with the naan.</li>
+</ol>
+<footer>
+Date Added: 2021-02-14
+</footer>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<head><title>TITLE</title></head>
+<body>
+<h1>TITLE</h1>
+<h2>Ingredients</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+<h2>Steps</h2>
+<ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
+<footer>
+Date Added: YYYY-MM-DD
+</footer>
+</body>
+
+<!-- Source:  -->
+</html>

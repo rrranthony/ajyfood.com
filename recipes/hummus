@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head><title>Hummus</title></head>
+<body>
+<h1>Hummus</h1>
+<h2>Ingredients</h2>
+<ul>
+  <li>1 15-oz can garbanzo beans</li>
+  <li>2 cloves garlic</li>
+  <li>2 T lemon juice</li>
+  <li>1 1/2 T mustard</li>
+  <li>2 T water</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+  <li>Drain and rinse the garbanzo beans.</li>
+  <li>In a food processor, combine the garbanzo beans, garlic, lemon juice, mustard, and water.</li>
+  <li>Optional: add freshly ground black pepper.</li>
+  <li>Run the food processor until hummus is smooth.</li>
+  <li>Optional: add more water to reach desired consistency.</li>
+</ol>
+<footer>
+Date Added: 2022-05-29
+</footer>
+</body>
+
+<!-- Source: The Prevent and Reverse Heart Disease Cookbook "Our Hummus" -->
+</html>

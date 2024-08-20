@@ -22,4 +22,6 @@ jobs:
 
     - name: Sync S3 bucket
       run: |
-        aws s3 sync . s3://ajyfood.com --metadata Content-Type=text/html --delete
+        aws s3 sync . s3://ajyfood.com \
+          --content-type text/html \
+          --delete

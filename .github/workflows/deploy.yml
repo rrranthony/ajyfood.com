@@ -45,6 +45,7 @@ jobs:
   
   deploy:
     runs-on: ubuntu-latest
+    needs: convert-markdown
 
     steps:
     - name: Checkout code

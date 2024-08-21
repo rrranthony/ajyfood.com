@@ -61,7 +61,7 @@ jobs:
       run: |
         aws s3 sync . s3://ajyfood.com \
           --content-type text/html \
-          --exclude ".git/*" \
-          --exclude ".github/*" \
-          --exclude ".gitignore" \
+          --include "*.html" \
+          --include "favicon.ico" \
+          --include "recipes/*" \
           --delete

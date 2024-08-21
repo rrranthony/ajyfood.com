@@ -1,4 +1,4 @@
-name: Deploy to S3
+name: Convert markdown to html and deploy to S3
 
 on:
   push:
@@ -6,6 +6,35 @@ on:
       - main
 
 jobs:
+  convert-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install markdown
+
+    - name: Run conversion script
+      run: python convert_markdown_recipes_to_html.py
+
+    - name: Commit and push the HTML files
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add recipes/*
+        git commit -m 'Convert markdown recipes to HTML'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
   deploy:
     runs-on: ubuntu-latest
 

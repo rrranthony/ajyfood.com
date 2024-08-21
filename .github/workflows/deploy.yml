@@ -1,5 +1,5 @@
 name: Deploy to S3
-
+# Testing updated bucket policy (non public)
 on:
   push:
     branches:

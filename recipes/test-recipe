@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head><title>Test Recipe</title></head>
+<body>
+<h1>Test Recipe</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1/2 C nothing</li>
+<li>1/4 t something else</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Do nothing</li>
+<li>And then you're done</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

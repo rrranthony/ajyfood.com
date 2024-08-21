@@ -25,10 +25,14 @@ jobs:
     - name: Run conversion script
       run: python convert_markdown_recipes_to_html.py
 
+    - name: Run script to generate index.html
+      run: python generate_index_html.py
+
     - name: Commit and push the HTML files
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add index.html
         git add recipes/*
         git commit -m 'Convert markdown recipes to HTML'
         if [ -n "$(git status --porcelain)" ]; then

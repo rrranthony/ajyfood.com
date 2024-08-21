@@ -34,7 +34,6 @@ jobs:
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add index.html
         git add recipes/*
-        git commit -m 'Convert markdown recipes to HTML'
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m 'Automated conversion of markdown recipes to HTML'
           git push

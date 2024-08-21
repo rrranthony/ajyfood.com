@@ -59,3 +59,4 @@ if __name__ == "__main__":
 
     for f in markdown_files:
         convert_markdown_file_to_html_file(f, html_dir)
+        print(f"Converted {f}")

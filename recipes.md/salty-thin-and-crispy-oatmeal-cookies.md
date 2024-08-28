@@ -14,7 +14,7 @@
 - 1/2 teaspoon coarse sea salt
 
 ## Steps
-1. Adjust the oven rack to the middle position and heat oven to 350°F.
+1. Adjust the oven rack to the middle position and heat oven to 350 degrees F.
 2. Combine flour, baking powder, baking soda, and salt.
 3. In a separate bowl, cream the butter and both sugars.
 4. Mix in egg and vanilla extract.

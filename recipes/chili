@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head><title>Chili</title></head>
+<body>
+<h1>Chili</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 lb ground beef</li>
+<li>1 15-oz can pinto beans</li>
+<li>1 onion, chopped</li>
+<li>1 15-oz can tomato sauce</li>
+<li>1 tablespoon chili powder</li>
+<li>1/2 teaspoon garlic powder</li>
+<li>1/4 teaspoon onion powder</li>
+<li>1/4 teaspoon crushed red pepper flakes</li>
+<li>1/2 teaspoon dried oregano</li>
+<li>1/2 teaspoon paprika</li>
+<li>1 1/2 teaspoons ground cumin</li>
+<li>1 teaspoon salt</li>
+<li>1 teaspoon pepper</li>
+<li>Sour cream, cheese, chips (for topping)</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Brown the beef.</li>
+<li>Add onions.</li>
+<li>Add pinto beans and tomato sauce.</li>
+<li>Add chili powder, garlic powder, onion powder, red pepper flakes, oregano, paprika, cumin, salt, and pepper.</li>
+<li>Simmer for 20 minutes or until desired thickness.</li>
+<li>Serve with sour cream, grated cheese, and tortilla chips.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

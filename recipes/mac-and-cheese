@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head><title>Mac And Cheese</title></head>
+<body>
+<h1>Mac and Cheese</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>3 cups chicken broth</li>
+<li>8 ounces elbow pasta</li>
+<li>1/2 teaspoon salt</li>
+<li>2 cups shredded cheddar cheese</li>
+<li>1/2 cup heavy cream</li>
+<li>1 tablespoon unsalted butter</li>
+<li>1 tablespoon cream cheese</li>
+<li>1/4 teaspoon onion powder</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>Bring the broth to a boil in a large pot over high heat, then reduce heat to medium-high.</li>
+<li>Stir in the pasta and salt and simmer for 12 minutes, stirring occasionally, until the pasta is just soft. The liquid will not be totally absorbed.</li>
+<li>Turn the heat off and stir in the cheese, heavy cream, butter, cream cheese, and onion powder. Cover and let sit for 5 minutes.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

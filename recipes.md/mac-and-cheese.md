@@ -4,7 +4,7 @@
 - 3 cups chicken broth
 - 8 ounces elbow pasta
 - 1/2 teaspoon salt
-- 2 cups shredded cheddar cheese
+- 2 cups (6 ounces) shredded cheddar cheese
 - 1/2 cup heavy cream
 - 1 tablespoon unsalted butter
 - 1 tablespoon cream cheese

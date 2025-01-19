@@ -7,7 +7,7 @@
 - 2 cups (6 ounces) shredded cheddar cheese
 - 1/2 cup heavy cream
 - 1 tablespoon unsalted butter
-- 1 tablespoon cream cheese
+- 1 tablespoon (0.5 ounces) cream cheese
 - 1/4 teaspoon onion powder
 
 ## Instructions

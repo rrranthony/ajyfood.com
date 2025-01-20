@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head><title>Waffles</title></head>
+<body>
+<h1>Waffles</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>2 cups all-purpose flour</li>
+<li>1 tablespoon baking powder</li>
+<li>1/2 teaspoon baking soda</li>
+<li>1/2 teaspoon salt</li>
+<li>2 eggs</li>
+<li>2 tablespoons maple syrup</li>
+<li>6 tablespoons vegetable oil</li>
+<li>1 3/4 cups milk</li>
+</ul>
+<h2>Instructions</h2>
+<ol>
+<li>Combine flour, baking powder, baking soda, and salt in a large mixing bowl.</li>
+<li>Add remaining ingredients and mix well until smooth.</li>
+<li>Let batter rest for 5 minutes. Preheat the waffle iron during this time.</li>
+<li>Cook in waffle iron according to your waffle iron instructions.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

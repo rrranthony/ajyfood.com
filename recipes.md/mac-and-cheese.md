@@ -14,3 +14,6 @@
 1. Bring the broth to a boil in a large pot over high heat, then reduce heat to medium-high.
 2. Stir in the pasta and salt and simmer for 12 minutes, stirring occasionally, until the pasta is just soft. The liquid will not be totally absorbed.
 3. Turn the heat off and stir in the cheese, heavy cream, butter, cream cheese, and onion powder. Cover and let sit for 5 minutes.
+
+## Notes
+- Add a splash of milk when reheating to get back the original creaminess.

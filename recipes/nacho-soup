@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <head><title>Nacho Soup</title></head>
 <body>
-<h2>Nacho Soup</h2>
-<h3>Ingredients</h3>
+<h1>Nacho Soup</h1>
+<h2>Ingredients</h2>
 <ul>
 <li>1 lb ground beef</li>
 <li>1 cup yellow onion, chopped</li>
@@ -20,7 +20,7 @@
 <li>4 tablespoons all-purpose flour</li>
 <li>8 oz cheddar cheese, shredded</li>
 </ul>
-<h3>Steps</h3>
+<h2>Steps</h2>
 <ol>
 <li>Heat a large stock pot over medium heat. Add the ground beef and cook until browned. Drain the fat and set the ground beef aside.</li>
 <li>In the same pot, sauté onion, green bell pepper, jalapeño, and garlic over medium heat until softened, about 5-7 minutes.</li>

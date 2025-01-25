@@ -1,6 +1,6 @@
-## Nacho Soup
+# Nacho Soup
 
-### Ingredients
+## Ingredients
 - 1 lb ground beef
 - 1 cup yellow onion, chopped
 - 1 cup green bell pepper, chopped
@@ -17,7 +17,7 @@
 - 4 tablespoons all-purpose flour
 - 8 oz cheddar cheese, shredded
 
-### Steps
+## Steps
 1. Heat a large stock pot over medium heat. Add the ground beef and cook until browned. Drain the fat and set the ground beef aside.
 2. In the same pot, sauté onion, green bell pepper, jalapeño, and garlic over medium heat until softened, about 5-7 minutes.
 3. Add the ground beef back to the pot. Stir in corn, black beans, diced tomatoes, chili powder, salt, black pepper, and chicken stock.

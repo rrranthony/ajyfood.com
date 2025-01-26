@@ -12,7 +12,7 @@
 - 6 teaspoons cacao powder
 - 6 teaspoons chia seeds
 - 4 tablespoons agave
-- 1 cup + 2 tablespoons water
+- 1 1/4 cup water
 
 ## Instructions
 1. Add all ingredients to a 1/2-pint mason jar (2-pint mason jar if doing a triple batch).

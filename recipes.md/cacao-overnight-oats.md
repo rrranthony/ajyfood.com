@@ -7,8 +7,15 @@
 - 4 teaspoons agave
 - 6 tablespoons water
 
+## Ingredients (triple batch)
+- 1 cup rolled oats
+- 6 teaspoons cacao powder
+- 6 teaspoons chia seeds
+- 4 tablespoons agave
+- 1 cup + 2 tablespoons water
+
 ## Instructions
-1. Add all ingredients to a 1/2-pint mason jar.
+1. Add all ingredients to a 1/2-pint mason jar (2-pint mason jar if doing a triple batch).
 2. Close the lid.
 3. Shake vigorously for five seconds.
 4. Place in the fridge overnight.

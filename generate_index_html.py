@@ -24,7 +24,10 @@ def generate_index_html(recipe_filenames):
     ]
     html = "".join([
         "<!DOCTYPE html>\n",
-        "<head><title>Recipes</title></head>\n",
+        "<head>\n",
+        '<meta charset="UTF-8">\n',
+        "<title>Recipes</title>\n",
+        "</head>\n",
         "<body>\n",
         "<h1>Recipes</h1>\n",
         "<ul>\n",

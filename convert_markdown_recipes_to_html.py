@@ -27,8 +27,11 @@ def convert_markdown_to_html(markdown, recipe_title):
     html = convert(markdown)
     html = "".join([
         "<!DOCTYPE html>\n",
-        "<html lang="en">",
-        f'<head><meta charset="UTF-8"><title>{recipe_title}</title></head>\n',
+        '<html lang="en">\n',
+        "<head>\n",
+        '<meta charset="UTF-8">\n',
+        f"<title>{recipe_title}</title>\n",
+        "</head>\n",
         "<body>\n",
             html,
             "\n",

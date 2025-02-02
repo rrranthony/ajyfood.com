@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<head><title>Nacho Soup</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Nacho Soup</title>
+</head>
 <body>
 <h1>Nacho Soup</h1>
 <h2>Ingredients</h2>

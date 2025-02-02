@@ -15,7 +15,7 @@
 - 1/2 teaspoon ground coriander  
 - 2 tablespoons corn starch  
 
-## Instructions
+## Steps
 1. In a large stock pot over medium heat, sauté the onion and garlic until soft, about 2 minutes.  
 2. Add the remaining ingredients, except the chicken and corn starch, and bring to a boil.  
 3. Add the chicken, reduce to a simmer, cover the pot, and simmer for 20 minutes, stirring occasionally. Add salt to taste about halfway through.  

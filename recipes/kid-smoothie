@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head><title>Kid Smoothie</title></head>
+<body>
+<h1>Kid Smoothie</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 cup plain kefir</li>
+<li>1/2 cup frozen blueberries</li>
+<li>1/2 cup frozen mango</li>
+<li>1/2 cup baby spinach</li>
+<li>1 tablespoon hemp seeds (or chia seeds)</li>
+<li>1 tablespoon avocado (optional)</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Blend all ingredients in a high-powered blender.</li>
+<li>Enjoy.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

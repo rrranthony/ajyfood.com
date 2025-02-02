@@ -1,41 +1,42 @@
 <!DOCTYPE html>
-<head><title>Thai Chop Salad</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Thai Chop Salad</title>
+</head>
 <body>
 <h1>Thai Chop Salad</h1>
 <h2>Ingredients</h2>
+<h3>Salad</h3>
 <ul>
-  <li>3 C green cabbage, chopped</li>
-  <li>3 C purple cabbage, chopped</li>
-  <li>1 C cucumber, diced</li>
-  <li>1 C red bell pepper, diced</li>
-  <li>1 C carrots, shredded</li>
-  <li>1/2 C cilantro, chopped</li>
-  <li>1 C tofu, air fried (substitute beans of your choice)</li>
-  <li>1/2 C roasted peanuts, chopped</li>
-  <li>3 T soy sauce</li>
-  <li>1/2 C peanut butter</li>
-  <li>1 t sriracha</li>
-  <li>2 T rice vingar</li>
-  <li>1 T lime juice</li>
-  <li>2 T water</li>
-  <li>1 T toasted sesame oil</li>
-  <li>1 T maple syrup</li>
-  <li>1 t ginger</li>
-  <li>1 t garlic</li>
+<li>1/2 medium green cabbage (3 cups), finely chopped</li>
+<li>1/2 medium purple cabbage (3 cups), finely chopped</li>
+<li>1/2 cucumber (1 cup), diced</li>
+<li>1 red bell pepper (1 cup), diced</li>
+<li>2 medium carrots (1 cup), shredded</li>
+<li>1/2 bunch cilantro (1/2 cup), chopped</li>
+<li>1 cup tofu, air fried (substitute beans of your choice)</li>
+<li>1/2 cup roasted peanuts, chopped</li>
+</ul>
+<h3>Dressing</h3>
+<ul>
+<li>3 tablespoons soy sauce</li>
+<li>1/2 cup peanut butter</li>
+<li>1 teaspoon sriracha</li>
+<li>2 tablespoons rice vinegar</li>
+<li>1 tablespoon lime juice</li>
+<li>2 tablespoons water</li>
+<li>1 tablespoon toasted sesame oil</li>
+<li>1 tablespoon maple syrup</li>
+<li>1 teaspoon ginger, grated</li>
+<li>1 teaspoon garlic, minced</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>Mix together dressing ingredients (soy sauce, peanut butter, etc.) until combined.</li>
-  <li>Toss all ingredients with dressing.</li>
+<li>Mix together dressing ingredients until combined.</li>
+<li>Toss all ingredients with dressing.</li>
+<li>Enjoy.</li>
 </ol>
-<footer>
-Date Added: 2022-05-04
-<br>
-Date Updated: 2022-05-29
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
-
-<!-- Source: Insta @healthygirlkitchen 2022-05-04 -->
 </html>

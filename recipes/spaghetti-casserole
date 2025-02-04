@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Spaghetti Casserole</title>
+</head>
+<body>
+<h1>Spaghetti Casserole</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 pound spaghetti, cooked</li>
+<li>1 pound ground beef</li>
+<li>2 24-ounce jars marinara sauce</li>
+<li>4 tablespoons butter, cut into 8 slices</li>
+<li>8 ounces cottage cheese</li>
+<li>8 ounces sour cream</li>
+<li>8 ounces cream cheese</li>
+<li>1/2 cup (2 ounces) shredded sharp cheddar cheese</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Brown the ground beef in a pan over medium heat, then add marinara sauce and mix well. Set aside.</li>
+<li>In a large bowl, combine the cottage cheese, sour cream, and cream cheese until smooth.</li>
+<li>Preheat oven to 350°F.</li>
+<li>Place slices of butter at the bottom of a 9x13-inch casserole dish.</li>
+<li>Add half of the cooked spaghetti.</li>
+<li>Spread half of the cheese mixture evenly over the spaghetti.</li>
+<li>Layer half of the meat sauce over the cheese mixture.</li>
+<li>Add the remaining spaghetti, then spread the remaining cheese mixture over the spaghetti, and top with the rest of the meat sauce.</li>
+<li>Bake for 30 minutes.</li>
+<li>Sprinkle shredded cheddar cheese on top and bake for an additional 15 minutes.</li>
+<li>Serve with garlic bread and a side of veggies!</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

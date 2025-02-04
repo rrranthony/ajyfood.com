@@ -2,6 +2,7 @@
 
 ## Ingredients
 - 1 cup plain kefir
+- 1 frozen banana
 - 1/2 cup frozen blueberries
 - 1/2 cup frozen mango
 - 1/2 cup baby spinach

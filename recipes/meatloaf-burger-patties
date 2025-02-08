@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Meatloaf Burger Patties</title>
+</head>
+<body>
+<h1>Meatloaf Burger Patties</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 pound ground beef</li>
+<li>1/3 cup panko breadcrumbs</li>
+<li>1/4 cup milk</li>
+<li>1 egg</li>
+<li>1/4 cup finely grated onion (with juices)</li>
+<li>1 teaspoon Worcestershire sauce</li>
+<li>1 teaspoon ketchup</li>
+<li>1/2 teaspoon garlic powder</li>
+<li>1/2 teaspoon salt</li>
+<li>1/4 teaspoon black pepper</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>In a large bowl, mix the panko with the milk and let it soak for 5 minutes. This helps keep the patties extra tender.</li>
+<li>Add the egg, grated onion, Worcestershire sauce, ketchup, garlic powder, salt, and pepper to the bowl. Stir well.</li>
+<li>Gently mix in the ground beef until just combined. Try not to overmix, as that can make the patties tough.</li>
+<li>Form into 8 small patties, about 2 inches in diameter.</li>
+<li>Cook the patties in a lightly oiled pan over medium heat, about 3-4 minutes per side. Alternatively, bake on a parchment-lined baking sheet at 375°F for 15-18 minutes.</li>
+<li>Serve on mini slider buns and add your favorite toppings.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

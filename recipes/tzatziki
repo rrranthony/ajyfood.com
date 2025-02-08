@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Tzatziki</title>
+</head>
+<body>
+<h1>Tzatziki</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 cup Greek yogurt  </li>
+<li>1/2 English cucumber, grated and squeezed dry  </li>
+<li>1 tablespoon lemon juice  </li>
+<li>1 tablespoon olive oil  </li>
+<li>1 garlic clove, minced  </li>
+<li>1 teaspoon dried dill</li>
+<li>1/4 teaspoon salt  </li>
+<li>1/4 teaspoon black pepper  </li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Mix together all ingredients in a bowl until fully combined.</li>
+<li>Refrigerate for at least 15 minutes to let the flavors meld before serving.  </li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

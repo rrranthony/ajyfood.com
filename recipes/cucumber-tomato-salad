@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Cucumber Tomato Salad</title>
+</head>
+<body>
+<h1>Cucumber Tomato Salad</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 English cucumber, diced  </li>
+<li>1 cup cherry tomatoes, halved  </li>
+<li>1/4 cup crumbled feta cheese  </li>
+<li>1/4 cup kalamata olives, sliced  </li>
+<li>2 tablespoons olive oil  </li>
+<li>1 tablespoon red wine vinegar  </li>
+<li>1/2 teaspoon dried oregano  </li>
+<li>1/4 teaspoon salt  </li>
+<li>1/4 teaspoon black pepper  </li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>In a bowl, combine English cucumber, cherry tomatoes, feta cheese, and kalamata olives.  </li>
+<li>In a small bowl, whisk together olive oil, red wine vinegar, oregano, salt, and black pepper.  </li>
+<li>Pour the dressing over the salad and toss to combine.  </li>
+<li>Let it sit for 10 minutes to allow the flavors to meld, then serve.  </li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

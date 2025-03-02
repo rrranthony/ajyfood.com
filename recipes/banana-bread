@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Banana Bread</title>
+</head>
+<body>
+<h1>Banana Bread</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>3/4 cup unsalted butter</li>
+<li>1 1/2 cups sugar</li>
+<li>1 1/2 cups bananas (ripe, mashed) (about 3 medium bananas)</li>
+<li>2 eggs</li>
+<li>1 teaspoon vanilla extract</li>
+<li>2 cups flour</li>
+<li>1 teaspoon baking soda</li>
+<li>3/4 teaspoon salt</li>
+<li>1/2 cup milk</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Heat oven to 325°F.</li>
+<li>Cream butter and sugar.</li>
+<li>Mix in bananas, eggs, and vanilla extract.</li>
+<li>In a separate bowl, combine flour, baking soda, and salt.</li>
+<li>Add milk and dry ingredients to the banana mixture and mix thoroughly.</li>
+<li>Pour into greased and floured loaf pans.</li>
+<li>Bake for 45 minutes or until a toothpick comes out clean.</li>
+</ol>
+<h2>Notes</h2>
+<ul>
+<li>Four 3×2×5.5-inch pans: 45-minute bake time  </li>
+<li>One 9×5×2.5-inch pan: about 1-hour bake time</li>
+</ul>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

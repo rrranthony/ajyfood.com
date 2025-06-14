@@ -1,7 +1,6 @@
 # Creamy Corn Pasta
 
 ## Ingredients
-- Kosher salt  
 - 1 pound farfalle
 - 1 large shallot, diced
 - 2 garlic cloves, minced

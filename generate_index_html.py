@@ -1,72 +1,5 @@
 import os
 
-style = """  <style>
-    /* Base layout */
-    body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background-color: #fdfdfd;
-      color: #111;
-      max-width: 600px;
-      margin: 3rem auto;
-      padding: 0 1.5rem;
-      line-height: 1.7;
-    }
-
-    /* Main heading */
-    h1 {
-      font-size: 2rem;
-      font-weight: 600;
-      margin-bottom: 2rem;
-      border-bottom: 2px solid #eee;
-      padding-bottom: 0.5rem;
-    }
-
-    /* List styling */
-    ul {
-      list-style-type: none;
-      padding: 0;
-      margin: 0;
-    }
-
-    li {
-      margin-bottom: 0.75rem;
-    }
-
-    /* Link styling */
-    a {
-      text-decoration: none;
-      color: #2a7ae2;
-      font-weight: 500;
-      transition: color 0.2s ease;
-    }
-
-    a:hover {
-      color: #1a5fcc;
-      text-decoration: underline;
-    }
-
-    /* Mobile adjustments */
-    @media (max-width: 480px) {
-      body {
-        padding: 1rem;
-        font-size: 1rem;
-      }
-
-      h1 {
-        font-size: 1.5rem;
-      }
-
-      li {
-        margin-bottom: 1rem;
-      }
-
-      a {
-        font-size: 1rem;
-      }
-    }
-  </style>
-"""
-
 def get_recipe_title(file_path):
     basename = os.path.basename(file_path)
     basename_without_extension = os.path.splitext(basename)[0]
@@ -94,8 +27,7 @@ def generate_index_html(recipe_filenames):
         '<meta charset="UTF-8">\n',
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n',
         "<title>Recipes</title>\n",
-        style,
-        "\n",
+        '<link rel="stylesheet" href"/style.css">\n',
         "</head>\n",
         "<body>\n",
         "<h1>Recipes</h1>\n",

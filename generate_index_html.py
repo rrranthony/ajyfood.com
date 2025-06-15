@@ -27,7 +27,7 @@ def generate_index_html(recipe_filenames):
         '<meta charset="UTF-8">\n',
         '<meta name="viewport" content="width=device-width, initial-scale=1">\n',
         "<title>Recipes</title>\n",
-        '<link rel="stylesheet" href"/style.css">\n',
+        '<link rel="stylesheet" href="/style.css">\n',
         "</head>\n",
         "<body>\n",
         "<h1>Recipes</h1>\n",

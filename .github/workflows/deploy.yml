@@ -33,6 +33,7 @@ jobs:
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add index.html
+        git add style.css
         git add recipes/*
         if [ -n "$(git status --porcelain)" ]; then
           git commit -m 'Automated conversion of markdown recipes to HTML'
@@ -70,3 +71,9 @@ jobs:
           --include "favicon.ico" \
           --include "recipes/*" \
           --delete
+
+    - name: Sync CSS file
+      run: |
+        aws s3 sync . s3://ajyfood.com \
+          --exclude "*" \
+          --include "style.css"

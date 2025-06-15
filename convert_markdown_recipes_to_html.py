@@ -31,6 +31,7 @@ def convert_markdown_to_html(markdown, recipe_title):
         "<head>\n",
         '<meta charset="UTF-8">\n',
         f"<title>{recipe_title}</title>\n",
+        '<link rel="stylesheet" href="/style.css">\n',
         "</head>\n",
         "<body>\n",
             html,

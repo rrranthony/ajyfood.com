@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Waffles</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Waffles</h1>

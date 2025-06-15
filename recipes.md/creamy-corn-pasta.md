@@ -9,7 +9,7 @@
 - 1/2 cup water
 - 2 lemons
 - 2/3 cup grated Parmesan cheese
-- 1 teaspoon dried basil (or 1/2 bunch fresh)
+- 1 teaspoon dried basil (or 1/2 bunch fresh, thinly sliced)
 
 ## Steps
 1. Bring a large pot of salted water to a boil. Cook pasta until al dente according to package instructions.

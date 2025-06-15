@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Banana Coconut Ice Cream</title>
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="../style.css">
 </head>
 <body>
 <h1>Banana Coconut Ice Cream</h1>

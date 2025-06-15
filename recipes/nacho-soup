@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Nacho Soup</title>
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="../style.css">
 </head>
 <body>
 <h1>Nacho Soup</h1>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Spaghetti Casserole</title>
-<link rel="stylesheet" href="/style.css">
+<link rel="stylesheet" href="../style.css">
 </head>
 <body>
 <h1>Spaghetti Casserole</h1>

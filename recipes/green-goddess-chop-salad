@@ -1,37 +1,36 @@
 <!DOCTYPE html>
-<head><title>Green Goddess Chop Salad</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Green Goddess Chop Salad</title>
+<link rel="stylesheet" href="../style.css">
+</head>
 <body>
 <h1>Green Goddess Chop Salad</h1>
 <h2>Ingredients</h2>
 <ul>
-  <li>1 green cabbage, finely diced</li>
-  <li>1 large cucumber, finely diced</li>
-  <li>1/2 bunch green onions, finely diced</li>
-  <li>Juice of 2 lemons</li>
-  <li>2 T rice vinegar</li>
-  <li>Half an avocado</li>
-  <li>1 C basil</li>
-  <li>1 C spinach</li>
-  <li>2 cloves garlic</li>
-  <li>1 small shallot</li>
-  <li>1/4 C walnuts (substitute nuts of your choice)</li>
-  <li>1/3 C nutritional yeast</li>
-  <li>1 t salt</li>
+<li>1 green cabbage, finely diced</li>
+<li>1 large cucumber, finely diced</li>
+<li>1/2 bunch green onions, finely diced</li>
+<li>Juice of 2 lemons</li>
+<li>2 T rice vinegar</li>
+<li>Half an avocado</li>
+<li>1 C basil</li>
+<li>1 C spinach</li>
+<li>2 cloves garlic</li>
+<li>1 small shallot</li>
+<li>1/4 C walnuts (substitute nuts of your choice)</li>
+<li>1/3 C nutritional yeast</li>
+<li>1 t salt</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>Combine the cabbage, cucumber, and green onions in an extra large bowl and mix well, set aside.</li>
-  <li>To a blender add the lemon juice, rice vinegar, and avocado.</li>
-  <li>To the blender add the remaining ingredients and blend until smooth. Add water 1 tablespoon at a time if the dressing is too thick.</li>
-  <li>Pour the dressing over the chopped salad and mix well.</li>
-  <li>Dip your favorite chip!</li>
+<li>Combine the cabbage, cucumber, and green onions in an extra large bowl and mix well, set aside.</li>
+<li>To a blender add the lemon juice, rice vinegar, and avocado.</li>
+<li>To the blender add the remaining ingredients and blend until smooth. Add water 1 tablespoon at a time if the dressing is too thick.</li>
+<li>Pour the dressing over the chopped salad and mix well.</li>
+<li>Dip your favorite chip!</li>
 </ol>
-<footer>
-Date Added: 2022-07-03
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
-
-<!-- Source: TikTok Famous Green Goddess Salad by Baked By Melissa 2022-01-21 -->
 </html>

@@ -1,36 +1,35 @@
 <!DOCTYPE html>
-<head><title>Minty Frozen Chocolate Balls</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Minty Frozen Chocolate Balls</title>
+<link rel="stylesheet" href="../style.css">
+</head>
 <body>
 <h1>Minty Frozen Chocolate Balls</h1>
 <h2>Ingredients</h2>
 <ul>
-  <li>1/3 C cocoa powder</li>
-  <li>1/3 C oat milk</li>
-  <li>1/3 C maple syrup</li>
-  <li>2 t vanilla extract</li>
-  <li>1/4 t peppermint extract</li>
-  <li>2 ripe bananas</li>
-  <li>2 1/2 C rolled oats</li>
-  <li>1 C Grape-Nuts</li>
+<li>1/3 C cocoa powder</li>
+<li>1/3 C oat milk</li>
+<li>1/3 C maple syrup</li>
+<li>2 t vanilla extract</li>
+<li>1/4 t peppermint extract</li>
+<li>2 ripe bananas</li>
+<li>2 1/2 C rolled oats</li>
+<li>1 C Grape-Nuts</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>In a food processor, combine all but the oats and Grape-Nuts.</li>
-  <li>Process until smooth and then transfer to a large bowl.</li>
-  <li>Add the oats to the bowl and mix well.</li>
-  <li>Line a baking sheet with parchment paper.</li>
-  <li>Place Grape-Nuts in a small bowl.</li>
-  <li>Using a melon baller or small spoon, scoop up wet, sticky chocolate balls and one by one drop them in the Grape-Nuts and roll them around to cover the surface of the ball.</li>
-  <li>Place each ball on the parchment paper and flatten slightly with the back of a spoon.</li>
-  <li>Freeze the balls.</li>
-  <li>Serve frozen or just slightly thawed.</li>
+<li>In a food processor, combine all but the oats and Grape-Nuts.</li>
+<li>Process until smooth and then transfer to a large bowl.</li>
+<li>Add the oats to the bowl and mix well.</li>
+<li>Line a baking sheet with parchment paper.</li>
+<li>Place Grape-Nuts in a small bowl.</li>
+<li>Using a melon baller or small spoon, scoop up wet, sticky chocolate balls and one by one drop them in the Grape-Nuts and roll them around to cover the surface of the ball.</li>
+<li>Place each ball on the parchment paper and flatten slightly with the back of a spoon.</li>
+<li>Freeze the balls.</li>
+<li>Serve frozen or just slightly thawed.</li>
 </ol>
-<footer>
-Date Added: 2022-06-29
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
-
-<!-- Source: The Prevent and Reverse Heart Disease Cookbook 2022-06-29 -->
 </html>

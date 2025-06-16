@@ -1,33 +1,32 @@
 <!DOCTYPE html>
-<head><title>Cheese Sauce</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Cheese Sauce</title>
+<link rel="stylesheet" href="../style.css">
+</head>
 <body>
 <h1>Cheese Sauce</h1>
 <h2>Ingredients</h2>
 <ul>
-  <li>1 1/2 C russet potatoes (about 1 medium), finely diced</li>
-  <li>1/4 C red bell pepper, finely diced</li>
-  <li>1/2 small yellow onion, diced</li>
-  <li>2 T pine nuts</li>
-  <li>2 T tahini</li>
-  <li>1 T lemon juice</li>
-  <li>2 T nutritional yeast</li>
-  <li>2 T arrowroot powder</li>
-  <li>1 t salt</li>
+<li>1 1/2 C russet potatoes (about 1 medium), finely diced</li>
+<li>1/4 C red bell pepper, finely diced</li>
+<li>1/2 small yellow onion, diced</li>
+<li>2 T pine nuts</li>
+<li>2 T tahini</li>
+<li>1 T lemon juice</li>
+<li>2 T nutritional yeast</li>
+<li>2 T arrowroot powder</li>
+<li>1 t salt</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>Combine the potato, bell pepper, onion, and pine nuts in a small saucepan and cover with water.</li>
-  <li>Bring to a boil over high heat, then reduce heat to medium and cook until the potatoes are very tender, about 10 minutes.</li>
-  <li>Drain, reserving 3/4 C of the cooking water.</li>
-  <li>Combine the drained potato mixture, reserved cooking water, tahini, lemon juice, nutritional yeast, arrowroot powder, and salt in a high powered blender.</li>
-  <li>Blend on high until everything is smooth and creamy, about 3 minutes (the starch in the potatoes needs to break down).</li>
+<li>Combine the potato, bell pepper, onion, and pine nuts in a small saucepan and cover with water.</li>
+<li>Bring to a boil over high heat, then reduce heat to medium and cook until the potatoes are very tender, about 10 minutes.</li>
+<li>Drain, reserving 3/4 C of the cooking water.</li>
+<li>Combine the drained potato mixture, reserved cooking water, tahini, lemon juice, nutritional yeast, arrowroot powder, and salt in a high powered blender.</li>
+<li>Blend on high until everything is smooth and creamy, about 3 minutes (the starch in the potatoes needs to break down).</li>
 </ol>
-<footer>
-Date Added: 2022-06-19
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
-
-<!-- Source: The China Study Family Cookbook 2022-06-05 -->
 </html>

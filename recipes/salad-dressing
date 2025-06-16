@@ -1,22 +1,23 @@
 <!DOCTYPE html>
-<head><title>Salad Dressing</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Salad Dressing</title>
+<link rel="stylesheet" href="../style.css">
+</head>
 <body>
 <h1>Salad Dressing</h1>
 <h2>Ingredients</h2>
 <ul>
-  <li>3 tablespoons balsamic vinegar</li>
-  <li>2 tablespoons mustard</li>
-  <li>1 tablespoon maple syrup</li>
-  <li>1 tablespoon lemon juice</li>
+<li>3 tablespoons balsamic vinegar</li>
+<li>2 tablespoons mustard</li>
+<li>1 tablespoon maple syrup</li>
+<li>1 tablespoon lemon juice</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>Combine all ingredients and enjoy.</li>
+<li>Combine all ingredients and enjoy.</li>
 </ol>
-<footer>
-Date Added: 2021-03-05
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
 </html>

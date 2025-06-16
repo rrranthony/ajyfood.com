@@ -1,24 +1,25 @@
 <!DOCTYPE html>
-<head><title>Kauai Juice Co Hula Girl</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hula Girl Juice</title>
+<link rel="stylesheet" href="../style.css">
+</head>
 <body>
 <h1>Kauai Juice Co Hula Girl</h1>
 <h2>Ingredients</h2>
 <ul>
-  <li>Kale</li>
-  <li>Mango</li>
-  <li>Pineapple</li>
-  <li>Apple</li>
-  <li>Basil</li>
+<li>Kale</li>
+<li>Mango</li>
+<li>Pineapple</li>
+<li>Apple</li>
+<li>Basil</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>Blend.</li>
-  <li>Enjoy.</li>
+<li>Blend.</li>
+<li>Enjoy.</li>
 </ol>
-<footer>
-Date Added: 2021-04-17
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
 </html>

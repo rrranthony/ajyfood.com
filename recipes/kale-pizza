@@ -1,42 +1,40 @@
 <!DOCTYPE html>
-<head><title>Kale Pizza</title></head>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Kale Pizza</title>
+<link rel="stylesheet" href="../style.css">
+</head>
 <body>
 <h1>Kale Pizza</h1>
 <h2>Ingredients</h2>
 <ul>
-  <li>1 8-oz pizza dough ball</li>
-  <li>Bread flour for dusting dough</li>
-  <li>4 oz (1 quart) kale leaves, roughly chopped</li>
-  <li>Olive oil</li>
-  <li>Salt and pepper</li>
-  <li>3 oz Gruy&#232;re cheese, grated (Fontina or Jack are okay)</li>
-  <li>4 oz fresh mozzarella cheese, torn into small chunks</li>
-  <li>3 garlic cloves, thinly sliced</li>
-  <li>Red pepper flakes (optional)</li>
+<li>1 8-oz pizza dough ball</li>
+<li>Bread flour for dusting dough</li>
+<li>4 oz (1 quart) kale leaves, roughly chopped</li>
+<li>Olive oil</li>
+<li>Salt and pepper</li>
+<li>3 oz Gruyère cheese, grated (Fontina or Jack are okay)</li>
+<li>4 oz fresh mozzarella cheese, torn into small chunks</li>
+<li>3 garlic cloves, thinly sliced</li>
+<li>Red pepper flakes (optional)</li>
 </ul>
 <h2>Steps</h2>
 <ol>
-  <li>Place ball of dough in a lightly oiled bowl and cover with plastic wrap. Set aside at room temperature for 1 hour.</li>
-  <li>Adjust oven rack to top position and place a pizza stone on top. Preheat oven to maximum heat setting.</li>
-  <li>Add kale to a large bowl and drizzle lightly with olive oil (start with less oil than you think you need).</li>
-  <li>Season kale with salt and pepper.</li>
-  <li>Toss and massage kale until evenly coated with oil. If more oil is needed to coat the kale, drizzle a little more oil and toss and massage again.</li>
-  <li>When ready to bake, dust dough and pizza peel with bread flour and stretch dough out to fill the pizza peel.</li>
-  <li>Sprinkle garlic over the dough, followed by Gruy&#232;re and mozzarella, and red pepper flakes if using.</li>
-  <li>Transfer pizza to pizza stone. Set timer to 1 minute.</li>
-  <li>After 1 minute rotate pizza and bake for an additional 30 seconds to 1 minute (or longer if needed), watching closely to make sure pizza only barely starts to brown. Remove pizza from oven, keeping it on the pizza peel.</li>
-  <li>Turn broiler to high.</li>
-  <li>Dump kale onto the pizza then press down and spread kale out with hands to ensure kale is spread out evenly to the edges.</li>
-  <li>Transfer pizza to pizza stone.</li>
-  <li>Check pizza every 30 seconds. Remove pizza from oven once kale is charred and crisp and edges of pizza are browned, about 2 minutes total.</li>
+<li>Place ball of dough in a lightly oiled bowl and cover with plastic wrap. Set aside at room temperature for 1 hour.</li>
+<li>Adjust oven rack to top position and place a pizza stone on top. Preheat oven to maximum heat setting.</li>
+<li>Add kale to a large bowl and drizzle lightly with olive oil (start with less oil than you think you need).</li>
+<li>Season kale with salt and pepper.</li>
+<li>Toss and massage kale until evenly coated with oil. If more oil is needed to coat the kale, drizzle a little more oil and toss and massage again.</li>
+<li>When ready to bake, dust dough and pizza peel with bread flour and stretch dough out to fill the pizza peel.</li>
+<li>Sprinkle garlic over the dough, followed by Gruyère and mozzarella, and red pepper flakes if using.</li>
+<li>Transfer pizza to pizza stone. Set timer to 1 minute.</li>
+<li>After 1 minute rotate pizza and bake for an additional 30 seconds to 1 minute (or longer if needed), watching closely to make sure pizza only barely starts to brown. Remove pizza from oven, keeping it on the pizza peel.</li>
+<li>Turn broiler to high.</li>
+<li>Dump kale onto the pizza then press down and spread kale out with hands to ensure kale is spread out evenly to the edges.</li>
+<li>Transfer pizza to pizza stone.</li>
+<li>Check pizza every 30 seconds. Remove pizza from oven once kale is charred and crisp and edges of pizza are browned, about 2 minutes total.</li>
 </ol>
-<footer>
-Date Added: 2021-04-17
-<br>
-<a href="../index.html">Back to all recipes</a>
-</footer>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
 </body>
-
-<!-- Source: Serious Eats "Charred Kale Pizza With Garlic" 2015-11-07 -->
-<!-- http://www.seriouseats.com/recipes/2014/11/kale-pizza-garlic-gruyere-fontina-mozzarella-recipe.html -->
 </html>

@@ -10,7 +10,7 @@
 - 1/4 teaspoon smoked paprika
 
 ## Steps
-1. Preheat oven to 350°F and line two baking sheets with parchment paper.
+1. Preheat oven to 350 degrees F and line two baking sheets with parchment paper.
 2. Peel the tough skin from the broccoli stems, then chop florets into 1/2-inch pieces and stems into 1/4-inch dice.
 3. In a bowl, mix soy sauce, maple syrup, and smoked paprika. Add almonds and toss to coat, then spread them onto one baking sheet.
 4. Toss pepitas in the same bowl with any remaining seasoning, then spread onto the second baking sheet.

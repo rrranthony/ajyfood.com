@@ -64,31 +64,29 @@ p {
   font-size: 0.95rem;
 }
 
-  /* Mobile adjustments */
-  @media (max-width: 480px) {
-    body {
-      padding: 1rem;
-      font-size: 1.05rem; /* was 1rem */
-    }
-  
-    h1 {
-      font-size: 1.75rem; /* was 1.5rem */
-    }
-  
-    h2 {
-      font-size: 1.3rem; /* was 1.2rem */
-    }
-  
-    li {
-      margin-bottom: 0.75rem;
-      font-size: 1.05rem;
-    }
-  
-    a {
-      font-size: 1.05rem;
-    }
-  
-    ol, ul {
-      padding-left: 1.25rem;
-    }
+/* Mobile adjustments */
+@media (max-width: 480px) {
+  body {
+    padding: 1rem;
+    font-size: 1.5rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 2.25rem;
+  }
+
+  li,
+  p,
+  a {
+    font-size: 1.5rem;
+  }
+
+  ol,
+  ul {
+    padding-left: 1.75rem;
+  }
 }

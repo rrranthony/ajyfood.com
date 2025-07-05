@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Zucchini Risotto</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Zucchini Risotto</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>4 cups chicken stock</li>
+<li>2 shallots, minced</li>
+<li>4 garlic cloves, minced</li>
+<li>3 medium zucchini, grated</li>
+<li>2 cups arborio rice</li>
+<li>1 cup grated Parmesan cheese</li>
+<li>4 tablespoons butter</li>
+<li>1 large lemon, halved</li>
+<li>Freshly ground black pepper, to taste</li>
+<li>Extra grated Parmesan</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Preheat oven to 350 degrees F with a rack in the middle.</li>
+<li>In a large oven-proof pot or Dutch oven, bring stock to a boil over high heat.</li>
+<li>Once boiling, turn off heat and stir in rice, zucchini, shallots, and garlic.</li>
+<li>Cover pot and bake for 40 minutes.</li>
+<li>Remove from oven and stir in Parmesan, butter, lemon zest and juice from half the lemon.</li>
+<li>Season with black pepper. Adjust consistency with more stock or water if too thick.</li>
+<li>Serve topped with extra Parmesan.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

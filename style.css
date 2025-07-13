@@ -7,6 +7,7 @@ body {
   margin: 3rem auto;
   padding: 0 1.5rem;
   line-height: 1.7;
+  font-size: 1rem;
 }
 
 /* Main heading */
@@ -26,21 +27,20 @@ h2 {
   margin-bottom: 1rem;
 }
 
-/* Unordered list (ingredients, links) */
+/* Lists */
+ul, ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
 ul {
   list-style-type: disc;
-  padding-left: 1.5rem;
-  margin-bottom: 1.5rem;
 }
 
-/* Ordered list (steps) */
 ol {
   list-style-type: decimal;
-  padding-left: 1.5rem;
-  margin-bottom: 1.5rem;
 }
 
-/* List items */
 li {
   margin-bottom: 0.5rem;
 }
@@ -62,31 +62,4 @@ a:hover {
 p {
   margin-top: 2rem;
   font-size: 0.95rem;
-}
-
-/* Mobile adjustments */
-@media (max-width: 480px) {
-  body {
-    padding: 1rem;
-    font-size: 1.5rem;
-  }
-
-  h1 {
-    font-size: 3rem;
-  }
-
-  h2 {
-    font-size: 2.25rem;
-  }
-
-  li,
-  p,
-  a {
-    font-size: 1.5rem;
-  }
-
-  ol,
-  ul {
-    padding-left: 1.75rem;
-  }
 }

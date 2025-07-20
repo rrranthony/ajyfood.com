@@ -4,14 +4,14 @@
 - 1/3 cup rolled oats
 - 2 teaspoons cacao powder
 - 2 teaspoons chia seeds
-- 4 teaspoons agave
+- 1 tablespoon agave
 - 6 tablespoons water
 
 ## Ingredients (triple batch)
 - 1 cup rolled oats
 - 6 teaspoons cacao powder
 - 6 teaspoons chia seeds
-- 4 tablespoons agave
+- 3 tablespoons agave
 - 1 1/4 cup water
 
 ## Instructions

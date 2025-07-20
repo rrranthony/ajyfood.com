@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Zucchini Cheesy Egg Bites</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Zucchini Cheesy Egg Bites</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 medium zucchini</li>
+<li>5 large eggs</li>
+<li>1 cup all-purpose flour</li>
+<li>1/2 cup shredded cheddar cheese</li>
+<li>1 teaspoon baking powder</li>
+<li>1/2 teaspoon salt</li>
+<li>1/2 teaspoon onion powder</li>
+</ul>
+<h2>Steps</h2>
+<ul>
+<li>Preheat the oven to 350 degrees F. Coat an 8x8-inch pan with nonstick cooking spray and line with parchment paper.</li>
+<li>Cut the stems off the zucchini. Grate using a box grater or food processor. Place in a clean kitchen towel and squeeze out as much liquid as possible. Measure 1 cup tightly packed grated zucchini.</li>
+<li>In a medium bowl, combine the zucchini with the remaining ingredients. Stir well to make a uniform batter. Pour into the prepared pan.</li>
+<li>Bake for 25–30 minutes, until the edges are lightly golden and the top is firm and set.</li>
+<li>Remove from the oven, let cool, then remove from the pan and slice into sticks or squares.</li>
+</ul>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

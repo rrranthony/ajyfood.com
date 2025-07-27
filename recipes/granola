@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Granola</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Granola</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>3 cups old-fashioned rolled oats</li>
+<li>1/2 cup chopped almonds</li>
+<li>1/2 cup chopped walnuts</li>
+<li>1/2 cup raw sunflower seeds or pumpkin seeds</li>
+<li>1/2 cup unsweetened coconut flakes or shredded coconut</li>
+<li>1/2 teaspoon cinnamon</li>
+<li>1/4 teaspoon salt</li>
+<li>1/3 cup maple syrup</li>
+<li>1/3 cup melted coconut oil or neutral oil (e.g., avocado or canola)</li>
+<li>1 teaspoon vanilla extract</li>
+<li>3/4 cup dried fruit (raisins, cranberries, cherries, chopped apricots, etc.)</li>
+<li>2 tablespoons chia seeds or puffed quinoa (optional, for texture)</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Preheat oven to 300 degrees F.</li>
+<li>In a large bowl, mix oats, nuts, seeds, coconut, cinnamon, and salt.</li>
+<li>In a separate bowl, whisk maple syrup, oil, and vanilla until smooth.</li>
+<li>Pour wet mixture over dry and mix thoroughly to coat.</li>
+<li>Spread mixture evenly on a parchment-lined baking sheet.</li>
+<li>Bake for 30 to 35 minutes, stirring halfway for loose granola or pressing down and not stirring for clusters.</li>
+<li>Let cool completely. Stir in dried fruit (and chia or puffed quinoa if using).</li>
+<li>Store in an airtight container at room temperature for up to 2 weeks.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

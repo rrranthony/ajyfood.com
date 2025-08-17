@@ -6,7 +6,6 @@
 - 2/3 cups water
 - 5 teaspoons sugar
 - 2 teaspoons salt
-- 1 garlic clove
 
 ## Steps
 1. Place the red onion in a 1-pint mason jar.

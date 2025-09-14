@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Chicken Caesar Wrap</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Chicken Caesar Wrap</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>Rotisserie chicken, cut into bite-sized pieces</li>
+<li>Romaine lettuce, chopped</li>
+<li>Caesar dressing</li>
+<li>Cherry tomatoes, halved</li>
+<li>Avocado, sliced</li>
+<li>Croutons, lightly crushed</li>
+<li>Large spinach tortilla</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Assemble the Caesar salad.</li>
+<li>Warm the tortilla in the microwave to soften it up before filling and wrapping.</li>
+<li>Fill the tortilla with Caesar salad and wrap tightly.</li>
+<li>Enjoy as is, or first sear briefly in a skillet to brown the outside.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

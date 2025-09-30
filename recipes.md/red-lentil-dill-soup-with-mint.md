@@ -11,7 +11,7 @@
 - 1 large sweet potato, cut into 1/2-inch cubes
 - 1 cup orange juice
 - 4 teaspoons dried dill (or 1/4 cup fresh, chopped)
-- 12 ounces fresh spinach (about 12 cups loosely packed)
+- 12 ounces fresh spinach (about 12 cups loosely packed), chopped
 - Zest of 1 lemon  
 - 3 tablespoons lemon juice  
 - 1 teaspoon freshly ground black pepper  
@@ -24,4 +24,4 @@
 4. Cover, reduce the heat to low, and simmer until the sweet potato is tender and the lentils are soft but not mushy, about 15 minutes.  
 5. With an immersion blender, blend the soup to the consistency you like, right in the pot. Leave some whole bits of tomato and sweet potato for a slightly chunky texture.  
 6. Stir in the dill, spinach, lemon zest, lemon juice, pepper, and vinegar, and cook for a few minutes more.  
-7. Serve hot.
+7. Serve hot with croutons, plain Greek yogurt, or any toppings of choice.

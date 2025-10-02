@@ -10,7 +10,7 @@
 - 1/4 teaspoon garlic powder
 - A few grinds of black pepper
 
-### Salad:
+### Salad
 - 1 large red onion, sliced lengthwise 1/4-inch thick
 - 1 pound butternut squash, cut into 1-inch cubes
 - 1/2 teaspoon dried thyme

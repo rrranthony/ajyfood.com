@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Shakshuka</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Shakshuka</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>1 medium onion, thinly sliced</li>
+<li>1 large red bell pepper, thinly sliced</li>
+<li>1 jalapeño, seeded and thinly sliced</li>
+<li>3 garlic cloves, thinly sliced</li>
+<li>1 1/2 tablespoons smoked paprika</li>
+<li>2 teaspoons ground cumin</li>
+<li>1 28-ounce can whole peeled tomatoes, with juices, crushed by hand</li>
+<li>1/2 cup cilantro and/or parsley</li>
+<li>6 eggs</li>
+<li>Optional toppings: sliced black olives, feta cheese, artichoke hearts</li>
+<li>Crusty bread, for serving</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Heat a large, deep skillet over medium-high heat. Add onion, red bell pepper, and jalapeño with a few tablespoons of water to prevent sticking. Cook until softened and lightly browned, about 8 to 10 minutes, adding small splashes of water as needed.</li>
+<li>Add garlic and cook 30 seconds until fragrant.</li>
+<li>Add paprika and cumin, stirring 30 seconds more.</li>
+<li>Add tomatoes with their juices and stir to combine. Reduce heat to low and simmer for 10 minutes, until slightly thickened.</li>
+<li>Season with salt and pepper, and stir in half the cilantro and/or parsley.</li>
+<li>Make small wells in the sauce with a spoon and crack an egg into each. Spoon a little sauce around each egg white to help contain it, keeping yolks exposed.</li>
+<li>Season eggs lightly with salt, cover, and cook over low heat until whites are just set and yolks are still runny, about 5 to 8 minutes.</li>
+<li>Remove from heat and sprinkle with remaining herbs and any optional toppings. Serve immediately with crusty bread.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

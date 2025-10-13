@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Carnitas</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Carnitas</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>4 pounds boneless pork shoulder or butt, cut into 2-inch pieces</li>
+<li>1 tablespoon kosher salt</li>
+<li>1/2 cup orange juice</li>
+<li>Juice of 3 limes</li>
+<li>2 bay leaves (optional)</li>
+<li>8 garlic cloves, smashed</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>Preheat oven to 350 degrees F.</li>
+<li>Cut pork into 2-inch pieces, discarding large hunks of fat. Add to a large Dutch oven or 12-inch cast iron skillet.</li>
+<li>Season with salt and add orange juice, lime juice, bay leaves, and smashed garlic cloves.</li>
+<li>Cover tightly with a lid or foil and roast for 2 hours, or until meat easily shreds when prodded with a fork. If it seems tough, continue cooking until tender.</li>
+<li>Remove lid and cook uncovered for 30 minutes, until most of the liquid has evaporated. Discard bay leaves.</li>
+<li>Transfer skillet to stovetop. Cook over medium-high heat, stirring every few minutes, until all liquid evaporates and the meat breaks apart and crisps.</li>
+<li>Serve hot in tacos, burrito bowls, nachos, or as desired.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

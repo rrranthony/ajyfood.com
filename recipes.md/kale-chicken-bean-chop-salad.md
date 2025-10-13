@@ -1,7 +1,7 @@
 # Kale Chicken Bean Chop Salad
 
 ## Ingredients
-For the marinated cannellini beans:
+### Marinated cannellini beans
 - 1 teaspoon olive oil
 - 1 tablespoon red wine vinegar
 - 1/2 teaspoon dried oregano
@@ -9,7 +9,7 @@ For the marinated cannellini beans:
 - 1/4 teaspoon black pepper
 - 1 15-ounce can cannellini beans, drained and rinsed
 
-For the thousand island dressing (or use your preferred dressing):
+### Thousand island dressing (or use your preferred dressing)
 - 1/2 cup mayonnaise
 - 2 tablespoons ketchup
 - 2 tablespoons sweet pickle relish
@@ -19,7 +19,7 @@ For the thousand island dressing (or use your preferred dressing):
 - Salt, to taste
 - Black pepper, to taste
 
-For the salad:
+### Salad
 - 1 large bunch kale, ribs removed and leaves chopped
 - 1 rotisserie chicken, skin removed and meat shredded (about 1 to 1 1/4 pounds meat)
 - 1 English cucumber, diced

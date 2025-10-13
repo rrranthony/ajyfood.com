@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Dilly Chop Salad</title>
+<link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<h1>Dilly Chop Salad</h1>
+<h2>Ingredients</h2>
+<ul>
+<li>3 tablespoons balsamic vinegar</li>
+<li>2 tablespoons Dijon mustard</li>
+<li>1 tablespoon maple syrup</li>
+<li>1 tablespoon lemon juice</li>
+<li>2 romaine hearts, thinly sliced (about 6 cups)</li>
+<li>1 cup pitted Castelvetrano olives, chopped</li>
+<li>6 ounces Manchego cheese, shredded</li>
+<li>4 ounces salami, thinly sliced</li>
+<li>1/2 cup roasted sunflower seeds (or toasted pumpkin seeds)</li>
+<li>1 bunch dill, chopped</li>
+<li>A few handfuls of salt and vinegar chips</li>
+</ul>
+<h2>Steps</h2>
+<ol>
+<li>In a jar with a lid, combine the balsamic vinegar, Dijon mustard, maple syrup, and lemon juice. Shake vigorously until emulsified. Add 1 tablespoon water if needed to thin.  </li>
+<li>Add the romaine to a large bowl with a big pinch each of salt and pepper.  </li>
+<li>Mix in the olives, Manchego, salami, sunflower seeds, and dill.  </li>
+<li>Add your desired amount of dressing (start with about 1/3 cup) and toss to coat.  </li>
+<li>Crumble the salt and vinegar chips over the top of the salad and serve immediately.</li>
+</ol>
+<footer><br><a href="../index.html">Back to all recipes</a></footer>
+</body>
+</html>

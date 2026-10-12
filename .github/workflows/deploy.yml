@@ -1,12 +1,16 @@
-name: Convert markdown to html and deploy to S3
+name: Build and deploy to S3
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
-  convert-markdown:
+  deploy:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,38 +23,10 @@ jobs:
         python-version: '3.13'
 
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
 
-    - name: Build recipe pages and index.html
+    - name: Build site into _site/
       run: python build.py
-
-    - name: Commit and push the HTML files
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add index.html
-        git add style.css
-        git add -A recipes
-        if [ -n "$(git status --porcelain)" ]; then
-          git commit -m 'Automated conversion of markdown recipes to HTML'
-          git push
-        else
-          echo "No changes to commit"
-        fi
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  deploy:
-    runs-on: ubuntu-latest
-    needs: convert-markdown
-
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v7
-      with:
-        fetch-depth: 1
-        ref: main
 
     - name: Configure AWS credentials
       uses: aws-actions/configure-aws-credentials@v6
@@ -59,18 +35,11 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: us-west-2
 
-    - name: Sync S3 bucket
-      run: |
-        aws s3 sync . s3://ajyfood.com \
-          --content-type text/html \
-          --exclude "*" \
-          --include "*.html" \
-          --include "favicon.ico" \
-          --include "recipes/*" \
-          --delete
+    # Recipe pages have no file extension, so label them as HTML explicitly.
+    # --delete removes pages for recipes that no longer exist.
+    - name: Sync recipe pages
+      run: aws s3 sync _site/recipes s3://ajyfood.com/recipes --content-type text/html --delete
 
-    - name: Sync CSS file
-      run: |
-        aws s3 sync . s3://ajyfood.com \
-          --exclude "*" \
-          --include "style.css"
+    # Index, 404, CSS and favicon: S3 picks the right type from the extension.
+    - name: Sync top-level files
+      run: aws s3 sync _site s3://ajyfood.com --exclude "recipes/*"

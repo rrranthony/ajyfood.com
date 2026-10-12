@@ -3,8 +3,10 @@
     python build.py            build the site
     python build.py --serve    build, then preview it at http://localhost:8000
 
-Each recipes.md/<slug>.md becomes a page at recipes/<slug> (no extension; S3
-serves those as HTML), and index.html lists every recipe by its "# Title" line.
+Output goes to _site/, which is not committed: the deploy Action builds it
+fresh on every push and syncs it to S3. Each recipes.md/<slug>.md becomes a
+page at recipes/<slug> (no extension; S3 serves those as HTML), and index.html
+lists every recipe by its "# Title" line.
 """
 import functools
 import html
@@ -17,7 +19,8 @@ from markdown import markdown
 
 ROOT = Path(__file__).resolve().parent
 SOURCE_DIR = ROOT / "recipes.md"
-OUTPUT_DIR = ROOT
+OUTPUT_DIR = ROOT / "_site"
+STATIC_FILES = ["style.css", "favicon.ico", "404.html"]
 TEMPLATE_NAME = "TEMPLATE.md"
 
 PAGE = """<!DOCTYPE html>
@@ -51,11 +54,13 @@ def recipe_title(text, slug):
 
 
 def build():
-    recipes_out = OUTPUT_DIR / "recipes"
     # Rebuild from scratch so deleted or renamed recipes don't leave stale pages.
-    if recipes_out.exists():
-        shutil.rmtree(recipes_out)
+    if OUTPUT_DIR.exists():
+        shutil.rmtree(OUTPUT_DIR)
+    recipes_out = OUTPUT_DIR / "recipes"
     recipes_out.mkdir(parents=True)
+    for name in STATIC_FILES:
+        shutil.copy2(ROOT / name, OUTPUT_DIR / name)
 
     entries = []
     for source in recipe_sources():

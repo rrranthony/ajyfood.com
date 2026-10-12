@@ -40,6 +40,23 @@ instruction, treat it as an intake and start without asking:
   denied after a few minutes, ask the owner to check the Action run; github.com
   isn't approved in the browser pane.
 
+## Recipe Table view (proof of concept: Brownies only)
+- A recipe gets a "View as Recipe Table" toggle when `recipes.md/<slug>.table`
+  exists. `build.py` puts both views in the page and the button swaps them (no
+  reload). Phones in portrait get a "turn sideways" hint instead of the table.
+- `.table` format: unindented `prep: ...` lines (oven, pan) are full-width rows,
+  shown where they appear, usually first. The one other unindented line is the
+  final step; each step's inputs are indented 2 spaces under it, in row order. A
+  line with children is a step, `Action | detail` (detail optional). A line
+  without children is an ingredient row, copied word for word from the recipe's
+  Ingredients. An ingredient split across steps gets one row per portion
+  ("1/4 cup water", "3 tablespoons water").
+- The table abbreviates tablespoon/teaspoon to tbsp/tsp; the recipe itself doesn't.
+- The build prints a WARNING when a table row isn't in the recipe's Ingredients
+  (e.g. unlisted water), an ingredient has no row, or a single row's amount
+  differs from the recipe. Run `python3 build.py` before pushing a recipe or
+  table change and fix any warning.
+
 ## Git from Claude's shell
 - Ask for file-deletion permission on the Food Assistant folder at the start;
   git can't clear its own lock files without it, and `build.py` can't clear

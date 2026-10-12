@@ -71,3 +71,106 @@ p {
   margin-top: 1rem;
   font-size: 0.95rem;
 }
+
+[hidden] {
+  display: none !important;
+}
+
+/* Recipe Table view (recipes with a .table file) */
+.view-toggle {
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #2a7ae2;
+  background: none;
+  border: 1px solid #2a7ae2;
+  border-radius: 6px;
+  padding: 0.5rem 0.9rem;
+  min-height: 44px;
+  cursor: pointer;
+}
+
+.view-toggle:hover {
+  background: #f0f6fe;
+}
+
+body.table-view {
+  max-width: 960px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+.recipe-table {
+  margin-top: 1.5rem;
+}
+
+.recipe-table table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.9rem;
+  line-height: 1.35;
+}
+
+.recipe-table td {
+  border: 1px solid #ccc;
+  padding: 0.4rem 0.55rem;
+  vertical-align: middle;
+}
+
+.recipe-table .prep {
+  color: #555;
+  font-style: italic;
+}
+
+.recipe-table .tag {
+  font-style: normal;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  background: #eee;
+  border-radius: 3px;
+  padding: 0.05rem 0.3rem;
+  margin-right: 0.4rem;
+}
+
+.recipe-table .step {
+  background: #f4f4f4;
+  text-align: center;
+}
+
+.recipe-table .action {
+  display: block;
+  font-weight: 600;
+}
+
+.recipe-table .detail {
+  display: block;
+  font-size: 0.8rem;
+  color: #555;
+}
+
+/* Phones: the table needs landscape. In portrait, show a hint instead. */
+.rotate-hint {
+  display: none;
+}
+
+@media (max-width: 600px) and (orientation: portrait) {
+  .rotate-hint {
+    display: block;
+    text-align: center;
+    padding: 1rem;
+    border: 1px dashed #ccc;
+    border-radius: 6px;
+  }
+
+  .recipe-table .table-wrap {
+    display: none;
+  }
+}
+
+/* Phones in landscape are short; trim the top margin. */
+@media (orientation: landscape) and (max-height: 500px) {
+  body.table-view {
+    margin-top: 1rem;
+  }
+}

@@ -6,7 +6,7 @@
 - 1 cup walnuts
 - 1 1/4 cups maple syrup
 - 2 teaspoons vanilla extract
-- 4 oz unsweetened baking chocolate
+- 4 ounces unsweetened baking chocolate
 - 2 tablespoons cocoa powder
 - 1 cup oat flour
 - 1/2 teaspoon baking soda

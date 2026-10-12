@@ -72,9 +72,9 @@ When a new convention is agreed in a chat, add it here in the same change.
 - Garlic: "4 cloves garlic, minced". Citrus: "Juice of 1 lemon", "Zest of 1 lemon".
 - Helpful conversions in parentheses: "2 cups (6 ounces) shredded cheddar cheese",
   "1/2 cucumber (1 cup), diced".
-- Write "broth", not "stock", and don't specify "low-sodium" (cooks salt to
-  taste). Keep "stock" only when swapping in broth would meaningfully change the
-  recipe.
+- Write "broth", not "stock", and don't specify "low-sodium" on broth or soy
+  sauce (cooks salt to taste). Keep "stock" only when swapping in broth would
+  meaningfully change the recipe.
 - Alternatives and optional items in parentheses at the end:
   "1 teaspoon ground cumin (or Herbes de Provence)", "2 bay leaves (optional)".
 - Assembly items with no real quantity (wraps, bowls) can skip the amount:

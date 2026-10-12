@@ -3,7 +3,8 @@
 How every recipe in `recipes.md/` is written. Follow it for new recipes and edits;
 start new recipes from `recipes.md/TEMPLATE.md`.
 Older recipes don't all follow it, so don't copy them as examples. The reference
-recipe is `recipes.md/lemony-chicken-and-orzo-soup.md`.
+recipe is `recipes.md/lemony-chicken-and-orzo-soup.md` (except its "low-sodium
+chicken broth", which predates the broth rule below).
 
 When a new convention is agreed in a chat, add it here in the same change.
 
@@ -62,7 +63,9 @@ When a new convention is agreed in a chat, add it here in the same change.
 - Garlic: "4 cloves garlic, minced". Citrus: "Juice of 1 lemon", "Zest of 1 lemon".
 - Helpful conversions in parentheses: "2 cups (6 ounces) shredded cheddar cheese",
   "1/2 cucumber (1 cup), diced".
-- Write "broth", not "stock", and don't specify "low-sodium" (cooks salt to taste). Keep "stock" only when swapping in broth would meaningfully change the recipe.
+- Write "broth", not "stock", and don't specify "low-sodium" (cooks salt to
+  taste). Keep "stock" only when swapping in broth would meaningfully change the
+  recipe.
 - Alternatives and optional items in parentheses at the end:
   "1 teaspoon ground cumin (or Herbes de Provence)", "2 bay leaves (optional)".
 - Assembly items with no real quantity (wraps, bowls) can skip the amount:
@@ -91,7 +94,8 @@ When a new convention is agreed in a chat, add it here in the same change.
   reheating, and substitutions.
 - Yield, when known, is the first bullet: "Makes 24 cookies." or "Serves 4."
   (Interim until the frontmatter decision in project-tracker.md thread 1.)
-- A substitution that changes the steps goes in Notes, spelled out by step number. The Ingredients and Steps are written for the primary version.
+- A substitution that changes the steps goes in Notes, spelled out by step
+  number. The Ingredients and Steps are written for the primary version.
 
 ## Dropped at intake
 - Headnotes and stories, source credits, nutrition info, photos, equipment lists

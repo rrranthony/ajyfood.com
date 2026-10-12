@@ -21,5 +21,5 @@
 7. Bake for 45 minutes or until a toothpick comes out clean.
 
 ## Notes
-- Four 3x2x5.5-inch pans: 45-minute bake time
-- One 9x5x2.5-inch pan: about 1-hour bake time
+- Four 3x2x5.5-inch loaf pans: bake for 45 minutes.
+- One 9x5x2.5-inch loaf pan: bake for about 1 hour.

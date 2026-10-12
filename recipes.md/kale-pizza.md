@@ -5,11 +5,9 @@
 - Bread flour for dusting dough
 - 4 ounces (1 quart) kale leaves, roughly chopped
 - Olive oil
-- Salt and pepper
 - 3 ounces Gruyère cheese, grated (Fontina or Jack are okay)
 - 4 ounces fresh mozzarella cheese, torn into small chunks
 - 3 cloves garlic, thinly sliced
-- Red pepper flakes (optional)
 
 ## Steps
 1. Place ball of dough in a lightly oiled bowl and cover with plastic wrap. Set aside at room temperature for 1 hour.
@@ -18,7 +16,7 @@
 4. Season kale with salt and pepper.
 5. Toss and massage kale until evenly coated with oil. If more oil is needed to coat the kale, drizzle a little more oil and toss and massage again.
 6. When ready to bake, dust dough and pizza peel with bread flour and stretch dough out to fill the pizza peel.
-7. Sprinkle garlic over the dough, followed by Gruyère and mozzarella, and red pepper flakes if using.
+7. Sprinkle garlic over the dough, followed by Gruyère and mozzarella.
 8. Transfer pizza to pizza stone. Set timer to 1 minute.
 9. After 1 minute rotate pizza and bake for an additional 30 seconds to 1 minute (or longer if needed), watching closely to make sure pizza only barely starts to brown. Remove pizza from oven, keeping it on the pizza peel.
 10. Turn broiler to high.

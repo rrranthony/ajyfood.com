@@ -1,7 +1,7 @@
 # Chicken Meatballs
 
 ## Ingredients
-- 1 pound ground chicken or turkey
+- 1 pound ground chicken (or turkey)
 - 2/3 cup Italian-style breadcrumbs
 - 1/2 cup shredded carrots (recommend finely shredding with a microplane)
 - 1/2 cup shredded Parmesan

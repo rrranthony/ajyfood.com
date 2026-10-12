@@ -10,7 +10,7 @@
 - 1 28-oz can whole peeled tomatoes, with juices, crushed by hand
 - 1/2 cup cilantro and/or parsley
 - 6 eggs
-- Optional toppings: sliced black olives, feta cheese, artichoke hearts
+- Sliced black olives, feta cheese, or artichoke hearts (optional, for topping)
 - Crusty bread, for serving
 
 ## Steps

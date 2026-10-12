@@ -14,7 +14,6 @@
 - 1 14-oz package firm or extra-firm tofu, drained and pressed
 - 2 teaspoons fresh lemon juice
 - 2 teaspoons salt, to taste
-- Freshly ground black pepper
 
 ## Steps
 1. Heat a large skillet over medium heat. Add the onion and garlic and sauté for 4 to 5 minutes. If the pan looks dry or onions or garlic begin to stick, add a splash of water or vegetable broth (1 to 2 tablespoons at a time) and stir until absorbed. Continue for 4 to 5 minutes, until the onion is softened.

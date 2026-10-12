@@ -14,4 +14,6 @@
 2. Add the dates, cinnamon, vanilla, and sea salt. Process until the mixture begins to clump.
 3. Add water one teaspoon at a time until it holds together when pressed.
 4. Scoop and roll into bite-sized balls.
-5. Store in an airtight container in the fridge for up to a week, or freeze for longer storage.
+
+## Notes
+- Store in an airtight container in the fridge for up to a week, or freeze for longer storage.

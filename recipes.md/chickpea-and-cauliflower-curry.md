@@ -13,7 +13,7 @@
 - Naan
 
 ## Steps
-1. Heat a dutch oven over medium heat.
+1. Heat a Dutch oven over medium heat.
 2. Add the curry paste and cook until fragrant, about 2 minutes.
 3. Add the ginger, white onion, garlic, and red bell pepper.
 4. Cook until tender and fragrant, about 5 minutes. Add a tablespoon or two of water if needed to avoid sticking to the pan.

@@ -25,4 +25,5 @@
 9. Bake 1 sheet at a time for 13 to 16 minutes, rotating the baking sheet halfway through, until cookies are a deep golden brown, edges are crisp, and centers yield to slight pressure when pressed.
 10. Cool cookies completely on the baking sheet.
 
-Makes 24 cookies.
+## Notes
+- Makes 24 cookies.

@@ -9,7 +9,6 @@
 - 1/2 teaspoon onion powder
 - 1/2 teaspoon garlic powder
 - 3/4 teaspoon salt, or to taste
-- Freshly ground black pepper, to taste
 - 1/2 cup dried red lentils
 - 3 cups spinach, chopped
 

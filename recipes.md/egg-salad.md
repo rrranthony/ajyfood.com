@@ -8,7 +8,7 @@
 - 1 teaspoon black pepper
 - Zest of 1 lemon
 - Juice of 1 lemon
-- 3 teaspoons dried dill, or 3 tablespoons finely diced fresh dill
+- 3 teaspoons dried dill (or 3 tablespoons fresh dill, finely chopped)
 
 ## Steps
 1. Finely grate the hard-boiled eggs into a large mixing bowl.

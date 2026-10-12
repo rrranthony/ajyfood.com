@@ -9,7 +9,7 @@
 - 2 tablespoons lemon juice
 - 2 tablespoons nutritional yeast
 - 1 teaspoon salt
-- 1/2 teaspoon dijon mustard
+- 1/2 teaspoon Dijon mustard
 
 ## Steps
 1. Bring a large pot of water to a boil.

@@ -10,7 +10,7 @@
 - 1 24-oz bag frozen mini wontons, potstickers, or dumplings (about 60 mini, or 20 regular size)
 - 3 ounces spinach (and/or greens of your choice), chopped
 - 1 tablespoon rice vinegar
-- Optional: 1 block of tofu, cubed
+- 1 block tofu, cubed (optional)
 
 ## Steps
 1. Warm a large pot or saucepan over medium-high heat.

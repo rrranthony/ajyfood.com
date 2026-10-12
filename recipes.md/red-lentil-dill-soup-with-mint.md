@@ -6,7 +6,7 @@
 - 1 15-oz can diced tomatoes
 - 1 teaspoon dried mint (or 1/4 cup fresh, chopped)
 - 1 teaspoon dried oregano
-- 8 cups vegetable or chicken broth
+- 8 cups vegetable broth (or chicken broth)
 - 2 cups dried red lentils
 - 1 large sweet potato, cut into 1/2-inch cubes
 - 1 cup orange juice

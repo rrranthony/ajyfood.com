@@ -15,5 +15,5 @@
 3. In a bowl, mix soy sauce, maple syrup, and smoked paprika. Add almonds and toss to coat, then spread them onto one baking sheet.
 4. Toss pepitas in the same bowl with any remaining seasoning, then spread onto the second baking sheet.
 5. Bake both sheets for 10 to 14 minutes, until golden brown. Let cool for 5 minutes to crisp up.
-6. Toss broccoli and cranberries with your preferred [salad dressing](https://ajyfood.com/recipes/salad-dressing).
+6. Toss broccoli and cranberries with your preferred [salad dressing](/recipes/salad-dressing).
 7. Add the almonds and pepitas to the salad, reserving a few to sprinkle on top. Toss and serve.

@@ -3,8 +3,7 @@
 How every recipe in `recipes.md/` is written. Follow it for new recipes and edits;
 start new recipes from `recipes.md/TEMPLATE.md`.
 Older recipes don't all follow it, so don't copy them as examples. The reference
-recipe is `recipes.md/lemony-chicken-and-orzo-soup.md` (except its "low-sodium
-chicken broth", which predates the broth rule below).
+recipe is `recipes.md/lemony-chicken-and-orzo-soup.md`.
 
 When a new convention is agreed in a chat, add it here in the same change.
 
@@ -35,7 +34,9 @@ When a new convention is agreed in a chat, add it here in the same change.
 - Section names are exactly "Ingredients", "Steps", "Notes" (not "Instructions"
   or "Directions").
 - Blank line before each heading, none after it.
-- Plain markdown only: no bold, italics, links, images, or tables.
+- Plain markdown only: no bold, italics, images, or tables. No links, except to
+  another recipe on this site, written as a site-relative path:
+  `[salad dressing](/recipes/salad-dressing)`.
 - No frontmatter (`---` block) yet; the site would show it as text.
 - Nothing family-specific anywhere in the file: no kid ratings, names, or
   personal notes. The site is public.
@@ -51,10 +52,18 @@ When a new convention is agreed in a chat, add it here in the same change.
 - Steps stay one numbered list. Name the component when a step works on it:
   "Whisk the dressing ingredients until smooth."
 
+## Spelling
+- Accented spellings: sauté, purée, jalapeño, Gruyère.
+- Capitalize proper names: Dijon, Parmesan, Yukon Gold, Meyer lemon, Dutch oven.
+- Dimensions with a plain "x": "8x8-inch pan".
+
 ## Ingredients
 - One per line: `- {amount} {unit} {ingredient}, {prep}`.
   Examples: "1 onion, diced", "4 cups kale, de-ribbed and chopped".
 - List in the order they're used.
+- Everything the steps use is listed, water included. An ingredient split across
+  steps is listed once with the total ("1/4 cup plus 3 tablespoons water"), and
+  each step gives its portion.
 - Fractions as `1/2` and `1 1/2`, never ½-style glyphs.
 - Units spelled out, plural when the amount is more than 1: teaspoon, tablespoon,
   cup, pound, ounce. Never T, t, c, tbsp, tsp, lb, oz.
@@ -90,8 +99,9 @@ When a new convention is agreed in a chat, add it here in the same change.
 - No filler steps such as "Enjoy." or "Serve and enjoy."
 
 ## Notes (optional)
-- Bulleted. For yield, pan-size and bake-time variations, make-ahead, storage,
-  reheating, and substitutions.
+- Bulleted. For yield, pan-size and bake-time variations, batch-size variations,
+  make-ahead, storage, reheating, and substitutions. These go here, not in the
+  Steps or a second Ingredients list.
 - Yield, when known, is the first bullet: "Makes 24 cookies." or "Serves 4."
   (Interim until the frontmatter decision in project-tracker.md thread 1.)
 - A substitution that changes the steps goes in Notes, spelled out by step

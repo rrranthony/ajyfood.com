@@ -2,6 +2,7 @@
 
 ## Ingredients
 - 3 tablespoons flaxseed meal
+- 1/4 cup plus 3 tablespoons water
 - 1 cup walnuts
 - 1 1/4 cups maple syrup
 - 2 teaspoons vanilla extract

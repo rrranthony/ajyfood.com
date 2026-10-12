@@ -8,13 +8,11 @@
 - 1 teaspoon Dijon mustard
 - 3/4 teaspoon kosher salt
 - 1/4 teaspoon garlic powder
-- A few grinds of black pepper
 
 ### Salad
 - 1 large red onion, sliced lengthwise 1/4-inch thick
 - 1 pound butternut squash, cut into 1-inch cubes
 - 1/2 teaspoon dried thyme
-- Kosher salt and black pepper
 - 2 boneless, skinless chicken breasts
 - 1 bunch curly kale, de-ribbed and chopped
 - 1 large Honeycrisp apple, thinly sliced

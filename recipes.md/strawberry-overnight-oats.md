@@ -1,4 +1,4 @@
-# Strawberry Yogurt Oats
+# Strawberry Overnight Oats
 
 ## Ingredients
 - 1 cup whole milk plain yogurt

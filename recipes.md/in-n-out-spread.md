@@ -9,4 +9,7 @@
 
 ## Steps
 1. Combine all ingredients in a small bowl and stir to combine.
-2. Cover and refrigerate until ready to use (up to 5 days).
+2. Cover and refrigerate until ready to use.
+
+## Notes
+- Keeps in the fridge for up to 5 days.

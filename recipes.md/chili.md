@@ -8,7 +8,6 @@
 - 1 tablespoon chili powder
 - 1/2 teaspoon garlic powder
 - 1/4 teaspoon onion powder
-- 1/4 teaspoon crushed red pepper flakes
 - 1/2 teaspoon dried oregano
 - 1/2 teaspoon paprika
 - 1 1/2 teaspoons ground cumin
@@ -20,6 +19,6 @@
 1. Brown the beef.
 2. Add onions.
 3. Add pinto beans and tomato sauce.
-4. Add chili powder, garlic powder, onion powder, red pepper flakes, oregano, paprika, cumin, salt, and pepper.
+4. Add chili powder, garlic powder, onion powder, oregano, paprika, cumin, salt, and pepper.
 5. Simmer for 20 minutes or until desired thickness.
 6. Serve with sour cream, grated cheese, and tortilla chips.

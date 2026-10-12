@@ -27,5 +27,5 @@
 2. To a large bowl add parsley, ground turkey, breadcrumbs, Parmesan, egg, sour cream, garlic, and lemon zest. Mix gently, then form into 4 patties about 1/2 inch thick.
 3. Heat olive oil in a 12-inch skillet over medium-high heat. Add patties and cook until golden brown on both sides, 4 to 5 minutes per side. Transfer to a plate and cover with foil.
 4. Halve the zested lemon. In the same skillet, off heat, add baby spinach, olive oil, and squeeze in juice from half the lemon. Stir just until wilted, 1 to 2 minutes. Cover to keep warm while finishing the cauliflower.
-5. Return cauliflower and garlic to the food processor. Add sour cream, Parmesan, about 2 teaspoons lemon juice (from the remaining lemon), and a few grinds of black pepper. Pulse until smooth or slightly chunky, adding a splash of water or stock if needed to loosen. Adjust seasonings to taste.
+5. Return cauliflower and garlic to the food processor. Add sour cream, Parmesan, about 2 teaspoons lemon juice (from the remaining lemon), and a few grinds of black pepper. Pulse until smooth or slightly chunky, adding a splash of water or broth if needed to loosen. Adjust seasonings to taste.
 6. Serve each turkey patty with a side of cauliflower mash and spinach.

@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Salad Dressing</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Salad Dressing</h1>
@@ -18,6 +19,6 @@
 <ol>
 <li>Combine all ingredients and enjoy.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

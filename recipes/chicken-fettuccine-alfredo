@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chicken Fettuccine Alfredo</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chicken Fettuccine Alfredo</h1>
@@ -29,6 +30,6 @@
 <li>Stir in 1 1/2 cups Parmesan and the cooked fettuccine. Toss to coat and cook for 2 more minutes.  </li>
 <li>Remove from heat. Slice the chicken and serve on top of the pasta.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

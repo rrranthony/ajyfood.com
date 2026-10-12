@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Avocado Lime Dressing</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Avocado Lime Dressing</h1>
@@ -24,6 +25,6 @@
 <li>Add additional water until you reach the desired consistency.  </li>
 <li>Taste and adjust seasoning as needed.  </li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

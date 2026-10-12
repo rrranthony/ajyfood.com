@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Butternut Squash And Lentil Soup</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Butternut Squash and Lentil Soup</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Butternut Squash and Lentil Soup</h1>
@@ -37,6 +38,6 @@
 <li>Stir paprika and 2 tablespoons of olive oil into yogurt to make the sauce.  </li>
 <li>Ladle soup into bowls. Add a generous dollop of yogurt sauce and swirl in. Sprinkle with paprika to garnish.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

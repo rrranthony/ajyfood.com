@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tortellini Soup</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Tortellini Soup</h1>
@@ -31,6 +32,6 @@
 <li>Meanwhile, cook the tortellini according to the package directions, until al dente (it will simmer in the soup for a couple minutes).</li>
 <li>Add the kale and cooked tortellini to the soup and simmer for 2 minutes.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

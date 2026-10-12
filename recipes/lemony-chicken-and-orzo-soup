@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Lemony Chicken And Orzo Soup</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lemony Chicken and Orzo Soup</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Lemony Chicken and Orzo Soup</h1>
@@ -41,6 +42,6 @@
 <li>Season with salt, pepper, and more lemon juice to taste.</li>
 <li>Serve topped with the herbs and more parmesan.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

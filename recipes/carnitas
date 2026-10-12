@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Carnitas</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Carnitas</h1>
@@ -26,6 +27,6 @@
 <li>Transfer skillet to stovetop. Cook over medium-high heat, stirring every few minutes, until all liquid evaporates and the meat breaks apart and crisps.</li>
 <li>Serve hot in tacos, burrito bowls, nachos, or as desired.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

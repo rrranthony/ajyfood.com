@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Wontons And Veggies In Curry Broth</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wontons and Veggies in Curry Broth</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Wontons and Veggies in Curry Broth</h1>
@@ -31,6 +32,6 @@
 <li>Taste and adjust with more soy sauce or vinegar as needed.</li>
 <li>Ladle into bowls and top with chili crisp if desired.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

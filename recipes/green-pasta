@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Green Pasta</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Green Pasta</h1>
@@ -29,6 +30,6 @@
 <li>Add 1 cup of sauce to the pasta and toss to coat. Add more sauce as desired until well coated (about 1 1/2 cups total). You will likely have extra sauce.</li>
 <li>Divide among bowls and serve.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

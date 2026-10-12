@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chicken Tortilla Soup</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chicken Tortilla Soup</h1>
@@ -31,6 +32,6 @@
 <li>In a small bowl, whisk the corn starch with 1/4 cup of water until smooth. Stir the mixture into the soup and let simmer for another 5 minutes, stirring occasionally, until the soup thickens slightly.  </li>
 <li>Serve with tortilla chips, avocado, red onion, shredded cheese, cilantro, and whatever else you like!  </li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

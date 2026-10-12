@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Lemon Muffins</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Lemon Muffins</h1>
@@ -35,6 +36,6 @@
 <li>Scoop the batter into the muffin tins, using a 1/3-cup measuring cup for a 12-muffin tin or a 1 1/2-tablespoon scoop for a 24-muffin tin.</li>
 <li>Bake for 16 minutes.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Banana Bread</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Banana Bread</h1>
@@ -34,6 +35,6 @@
 <li>Four 3×2×5.5-inch pans: 45-minute bake time  </li>
 <li>One 9×5×2.5-inch pan: about 1-hour bake time</li>
 </ul>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

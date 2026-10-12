@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Chickpea And Cauliflower Curry</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chickpea and Cauliflower Curry</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chickpea and Cauliflower Curry</h1>
@@ -32,6 +33,6 @@
 <li>Simmer until the cauliflower is tender and the sauce is thick and bubbly, about 10 minutes.</li>
 <li>Serve over rice with the naan.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

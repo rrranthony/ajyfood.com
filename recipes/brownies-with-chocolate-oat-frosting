@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Brownies With Chocolate Oat Frosting</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Brownies with Chocolate Oat Frosting</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Brownies with Chocolate Oat Frosting</h1>
@@ -53,6 +54,6 @@
 <li>Mix in oat flour.</li>
 <li>Spread over cooled brownies and refrigerate 15 minutes to set.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

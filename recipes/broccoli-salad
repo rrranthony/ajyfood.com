@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Broccoli Salad</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Broccoli Salad</h1>
@@ -27,6 +28,6 @@
 <li>Toss broccoli and cranberries with your preferred <a href="https://ajyfood.com/recipes/salad-dressing">salad dressing</a>.</li>
 <li>Add the almonds and pepitas to the salad, reserving a few to sprinkle on top. Toss and serve.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Spaghetti Casserole</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Spaghetti Casserole</h1>
@@ -32,6 +33,6 @@
 <li>Sprinkle shredded cheddar cheese on top and bake for an additional 15 minutes.</li>
 <li>Serve with garlic bread and a side of veggies!</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

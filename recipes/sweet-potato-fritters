@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sweet Potato Fritters</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Sweet Potato Fritters</h1>
@@ -26,6 +27,6 @@
 <li>Cook for 2-3 minutes per side, until golden brown and crispy.  </li>
 <li>Enjoy with hummus, guacamole, or your dip of choice.  </li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

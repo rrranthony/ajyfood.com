@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Overnight Oats</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Overnight Oats</h1>
@@ -23,6 +24,6 @@
 <li>Place in the fridge overnight.</li>
 <li>Eat the next day (or up to a week later) with sliced banana, chopped strawberries, frozen blueberries, and/or any combination of fruits on hand.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

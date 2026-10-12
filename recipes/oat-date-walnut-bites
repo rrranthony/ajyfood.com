@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Oat Date Walnut Bites</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Oat Date Walnut Bites</h1>
@@ -25,6 +26,6 @@
 <li>Scoop and roll into bite-sized balls.</li>
 <li>Store in an airtight container in the fridge for up to a week, or freeze for longer storage.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

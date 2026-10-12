@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Green Puffs</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Green Puffs</h1>
@@ -29,6 +30,6 @@
 <li>Bake for 10 minutes at 375 degrees F, lower heat to 250 degrees F and bake for another 15 minutes.</li>
 <li>Puffs will still be a little soft when you take them out, but will firm up a little bit when they cool.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

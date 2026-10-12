@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kale Chicken Bean Chop Salad</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Kale Chicken Bean Chop Salad</h1>
@@ -44,6 +45,6 @@
 <li>Add the shredded chicken, diced cucumber, chopped Gruyère, and marinated beans to the kale. Toss everything together.</li>
 <li>When ready to eat, portion out the salad and dress with the thousand island dressing just before serving.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

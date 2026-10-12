@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pizza Dough</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Pizza Dough</h1>
@@ -28,6 +29,6 @@
 <li>If freezing, for each dough ball, place a 12-inch length of plastic wrap on the counter, place the dough ball on top, and fold the plastic wrap around the ball. Place plastic-wrapped dough ball into a 1-quart freezer bag and into freezer.</li>
 <li>When using frozen dough, place frozen dough ball in the refrigerator the day before baking, then on the day of baking, follow Step 7 above.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

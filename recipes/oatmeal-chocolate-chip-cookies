@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Oatmeal Chocolate Chip Cookies</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Oatmeal Chocolate Chip Cookies</h1>
@@ -31,6 +32,6 @@
 <li>Preheat oven to 350 degrees F.</li>
 <li>Place dough mounds on the lined baking sheet and bake for 11-13 minutes.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

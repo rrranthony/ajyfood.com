@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chicken Caesar Wrap</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chicken Caesar Wrap</h1>
@@ -24,6 +25,6 @@
 <li>Fill the tortilla with Caesar salad and wrap tightly.</li>
 <li>Enjoy as is, or first sear briefly in a skillet to brown the outside.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

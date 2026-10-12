@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Meatloaf Burger Patties</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Meatloaf Burger Patties</h1>
@@ -29,6 +30,6 @@
 <li>Cook the patties in a lightly oiled pan over medium heat, about 3-4 minutes per side. Alternatively, bake on a parchment-lined baking sheet at 375°F for 15-18 minutes.</li>
 <li>Serve on mini slider buns and add your favorite toppings.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chocolate Spinach Muffins</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chocolate Spinach Muffins</h1>
@@ -31,6 +32,6 @@
 <li>Divide batter among the muffin cups, using a heaping 1/4 cup per muffin.</li>
 <li>Bake for 14–16 minutes, until edges are lightly golden and a tester comes out clean. Cool on a wire rack.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

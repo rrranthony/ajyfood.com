@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Yogurt Pancakes</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Yogurt Pancakes</h1>
@@ -27,6 +28,6 @@
 <li>Flip and cook for another 3 minutes.  </li>
 <li>Serve warm with applesauce, fruit puree, maple syrup, or nut/seed butter.  </li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Kale Pizza</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Kale Pizza</h1>
@@ -35,6 +36,6 @@
 <li>Transfer pizza to pizza stone.</li>
 <li>Check pizza every 30 seconds. Remove pizza from oven once kale is charred and crisp and edges of pizza are browned, about 2 minutes total.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

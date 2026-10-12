@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Potato And Cauliflower Red Thai Curry</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Potato and Cauliflower Red Thai Curry</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Potato and Cauliflower Red Thai Curry</h1>
@@ -31,6 +32,6 @@
 <li>Carefully open the lid and stir in the spinach. Allow it to wilt, uncovered, for a couple of minutes. Press "Cancel" to turn the heat off.</li>
 <li>Serve over rice, with naan, and any other desired garnishes.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

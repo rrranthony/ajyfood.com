@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pickled Red Onions</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Pickled Red Onions</h1>
@@ -25,6 +26,6 @@
 <li>Once cooled to room temperature, store jar in fridge.</li>
 <li>Onions are ready to eat once bright pink and tender (1 hour for very thinly sliced onions).</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

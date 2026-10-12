@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chicken Meatballs</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chicken Meatballs</h1>
@@ -22,6 +23,6 @@
 <li>Measure out 1- or 2-tablespoon-size portions to roll into balls and place onto the prepared baking sheet.</li>
 <li>Bake for 20-24 minutes until golden brown and cooked through.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

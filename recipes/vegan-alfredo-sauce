@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Vegan Alfredo Sauce</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Vegan Alfredo Sauce</h1>
@@ -28,6 +29,6 @@
 <li>Blend until creamy.</li>
 <li>Serve with your choice of pasta, mixing in pasta cooking water if needed to reach desired consistency.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

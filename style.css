@@ -27,6 +27,14 @@ h2 {
   margin-bottom: 1rem;
 }
 
+/* Sub-headings, e.g. "Dressing" or "Salad" within Ingredients */
+h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
 /* Lists */
 ul, ol {
   padding-left: 1.5rem;
@@ -60,6 +68,6 @@ a:hover {
 
 /* Paragraphs */
 p {
-  margin-top: 2rem;
+  margin-top: 1rem;
   font-size: 0.95rem;
 }

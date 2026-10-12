@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cinnamon Rolls</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Cinnamon Rolls</h1>
@@ -32,6 +33,6 @@
 <li>Cover the bowl with foil and let the dough rise in a warm, draft free spot for an hour and a half. The dough should nearly double in size.</li>
 <li>While you wait, prepare the filling and icing and line a baking sheet with parchment paper and brush with some of the melted butter.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

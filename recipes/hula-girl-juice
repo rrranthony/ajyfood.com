@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Hula Girl Juice</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kauai Juice Co Hula Girl</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Kauai Juice Co Hula Girl</h1>
@@ -20,6 +21,6 @@
 <li>Blend.</li>
 <li>Enjoy.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

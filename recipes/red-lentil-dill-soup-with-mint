@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Red Lentil Dill Soup With Mint</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Red Lentil Dill Soup with Mint</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Red Lentil Dill Soup with Mint</h1>
@@ -35,6 +36,6 @@
 <li>Stir in the dill, spinach, lemon zest, lemon juice, pepper, and vinegar, and cook for a few minutes more.  </li>
 <li>Serve hot with croutons, plain Greek yogurt, or any toppings of choice.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

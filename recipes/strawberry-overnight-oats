@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Strawberry Overnight Oats</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Strawberry Yogurt Oats</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Strawberry Yogurt Oats</h1>
@@ -23,6 +24,6 @@
 <li>Stir together the yogurt, oats, vanilla, milk, coconut, hemp seeds, and maple syrup.</li>
 <li>Layer in jars or storage containers with the berries. Let sit overnight and enjoy cold.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

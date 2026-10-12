@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tofu Scramble</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Tofu Scramble</h1>
@@ -33,6 +34,6 @@
 <li>Add the kale and cook for 1 to 2 minutes, just until wilted.</li>
 <li>Stir in the nutritional yeast, lemon juice, salt, and black pepper. Adjust seasoning to taste. Serve hot.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

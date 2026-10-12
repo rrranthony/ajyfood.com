@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Chocolate Coconut Macaroons</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Chocolate Coconut Macaroons</h1>
@@ -27,6 +28,6 @@
 <li>Dip the bottoms of the cooled macaroons into the chocolate and place on parchment to set.</li>
 <li>Chill 10–15 minutes until the chocolate is firm.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

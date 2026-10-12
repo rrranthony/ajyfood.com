@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Lemony Herby Turkey Patties With Cauliflower Mash And Spinach</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lemony Herby Turkey Patties with Cauliflower Mash and Spinach</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Lemony Herby Turkey Patties with Cauliflower Mash and Spinach</h1>
@@ -41,6 +42,6 @@
 <li>Return cauliflower and garlic to the food processor. Add sour cream, Parmesan, about 2 teaspoons lemon juice (from the remaining lemon), and a few grinds of black pepper. Pulse until smooth or slightly chunky, adding a splash of water or stock if needed to loosen. Adjust seasonings to taste.</li>
 <li>Serve each turkey patty with a side of cauliflower mash and spinach.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

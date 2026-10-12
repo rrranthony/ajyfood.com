@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Zucchini Cheesy Egg Bites</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Zucchini Cheesy Egg Bites</h1>
@@ -25,6 +26,6 @@
 <li>Bake for 25–30 minutes, until the edges are lightly golden and the top is firm and set.</li>
 <li>Remove from the oven, let cool, then remove from the pan and slice into sticks or squares.</li>
 </ul>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

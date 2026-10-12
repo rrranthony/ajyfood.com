@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tofu Chocolate Pudding</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Tofu Chocolate Pudding</h1>
@@ -22,6 +23,6 @@
 <li>Chill for at least 1 hour before serving to allow it to set and develop flavor.</li>
 <li>Serve topped with berries, shaved dark chocolate, or a dollop of coconut cream.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

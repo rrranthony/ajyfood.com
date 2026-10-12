@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cheese Sauce</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Cheese Sauce</h1>
@@ -27,6 +28,6 @@
 <li>Combine the drained potato mixture, reserved cooking water, tahini, lemon juice, nutritional yeast, arrowroot powder, and salt in a high powered blender.</li>
 <li>Blend on high until everything is smooth and creamy, about 3 minutes (the starch in the potatoes needs to break down).</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

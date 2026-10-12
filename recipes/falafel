@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Falafel</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Falafel</h1>
@@ -39,6 +40,6 @@
 <li>Then flip and bake for 10-12 minutes more until golden brown and crisp on the outside.</li>
 <li>Assemble with pita bread, hummus, tomato, cucumber, and pickled red onions.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

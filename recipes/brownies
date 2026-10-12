@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Brownies</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Brownies</h1>
@@ -33,6 +34,6 @@
 <li>Pour the batter into the prepared pan. There will be about 1 cup of extra batter that can be baked separately (in a ramekin) or eaten as is.</li>
 <li>Bake for 35 to 40 minutes.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

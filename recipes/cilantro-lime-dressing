@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cilantro Lime Dressing</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Cilantro Lime Dressing</h1>
@@ -25,6 +26,6 @@
 <li>With the food processor running, pour in the olive oil and process until smooth.</li>
 <li>Add in water 1 T at a time until desired consistency is reached.</li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

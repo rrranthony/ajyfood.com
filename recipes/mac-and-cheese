@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Mac And Cheese</title>
-<link rel="stylesheet" href="../style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mac and Cheese</title>
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Mac and Cheese</h1>
@@ -28,6 +29,6 @@
 <ul>
 <li>Add a splash of milk when reheating to get back the original creaminess.</li>
 </ul>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

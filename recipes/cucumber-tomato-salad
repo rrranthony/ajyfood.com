@@ -2,8 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cucumber Tomato Salad</title>
-<link rel="stylesheet" href="../style.css">
+<link rel="stylesheet" href="/style.css">
 </head>
 <body>
 <h1>Cucumber Tomato Salad</h1>
@@ -26,6 +27,6 @@
 <li>Pour the dressing over the salad and toss to combine.  </li>
 <li>Let it sit for 10 minutes to allow the flavors to meld, then serve.  </li>
 </ol>
-<footer><br><a href="../index.html">Back to all recipes</a></footer>
+<footer><br><a href="/index.html">Back to all recipes</a></footer>
 </body>
 </html>

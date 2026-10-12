@@ -12,6 +12,9 @@ family-specific must never appear in rendered pages.
 - Shelf-life table: `docs/shelf-life.md` (not written yet)
 - Open threads and decisions: `../project-tracker.md` (outside the repo)
 
+Keep this file short; it is the index. Conventions go in `docs/style-guide.md`,
+reference material in `docs/`, open threads in the tracker.
+
 ## Recipe intake
 When a recipe arrives (PDF, link, screenshot, or pasted text) with no other
 instruction, treat it as an intake and start without asking:
@@ -35,6 +38,15 @@ instruction, treat it as an intake and start without asking:
   git can't clear its own lock files without it.
 - Push with `scripts/push.sh`. The GitHub token needs Contents and Workflows
   read/write.
+- The repo lives at `Food Assistant/ajyfood.com` on the Mac. Work on it there
+  through the device shell. Don't clone it in Claude's cloud container: that
+  side has no GitHub link, so it can't push.
+- Never print or Read `.secrets/github-token`; it ends up in the chat. Load it
+  into a shell variable instead.
+- To re-clone: clone with the token, then reset `origin` to the plain
+  `https://github.com/rrranthony/ajyfood.com.git` so the token isn't stored in
+  `.git/config`, and set the local git identity (Anthony Young /
+  rrranthony@users.noreply.github.com).
 
 ## Working agreements
 - Never commit or push without explicit approval — show a diff or summary first.

@@ -3,11 +3,11 @@
 ## Ingredients
 - 1 cup old fashioned oats
 - 1 cup raw walnuts
-- 1 cup Medjool dates, pitted (about 10-12)
-- 1/2 teaspoon cinnamon  
-- 1/2 teaspoon vanilla extract  
-- Pinch of sea salt  
-- 1 to 2 tablespoons water, as needed  
+- 1 cup Medjool dates, pitted (about 10 to 12)
+- 1/2 teaspoon cinnamon
+- 1/2 teaspoon vanilla extract
+- Pinch of sea salt
+- 1 to 2 tablespoons water, as needed
 
 ## Steps
 1. In a food processor, pulse the oats and walnuts until finely ground.

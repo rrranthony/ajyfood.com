@@ -1,7 +1,7 @@
 # Overnight Oats
 
 ## Ingredients
-- 1 1/2 cup rolled oats
+- 1 1/2 cups rolled oats
 - 1 teaspoon chia seeds
 - 1 teaspoon flaxseed meal
 - 10 dried goji berries

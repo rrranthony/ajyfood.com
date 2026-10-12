@@ -11,4 +11,3 @@
 
 ## Steps
 1. Blend all ingredients in a high-powered blender.
-2. Enjoy.

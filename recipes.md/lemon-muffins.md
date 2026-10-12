@@ -3,7 +3,7 @@
 ## Ingredients
 - 1 cup oat milk
 - 1 teaspoon apple cider vinegar
-- 1 3/4 cup all purpose flour
+- 1 3/4 cups all purpose flour
 - 1/2 cup almond flour
 - 2 1/2 teaspoons baking powder
 - 1/4 teaspoon baking soda
@@ -16,7 +16,7 @@
 - 1 tablespoon chia seeds
 
 ## Steps
-1. Preheat the oven to 375 F and prepare a 12- or 24-muffin muffin tin.
+1. Preheat the oven to 375 degrees F and prepare a 12- or 24-muffin muffin tin.
 2. Measure the oat milk in a liquid measuring cup and then add the apple cider vinegar, then set aside.
 3. In a medium bowl, combine the all purpose flour, almond flour, baking powder, baking soda, and salt.
 4. In a large bowl, combine the coconut sugar, olive oil, meyer lemon zest, meyer lemon juice, and vanilla extract.

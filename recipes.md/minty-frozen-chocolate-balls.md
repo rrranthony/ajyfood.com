@@ -1,14 +1,14 @@
 # Minty Frozen Chocolate Balls
 
 ## Ingredients
-- 1/3 C cocoa powder
-- 1/3 C oat milk
-- 1/3 C maple syrup
-- 2 t vanilla extract
-- 1/4 t peppermint extract
+- 1/3 cup cocoa powder
+- 1/3 cup oat milk
+- 1/3 cup maple syrup
+- 2 teaspoons vanilla extract
+- 1/4 teaspoon peppermint extract
 - 2 ripe bananas
-- 2 1/2 C rolled oats
-- 1 C Grape-Nuts
+- 2 1/2 cups rolled oats
+- 1 cup Grape-Nuts
 
 ## Steps
 1. In a food processor, combine all but the oats and Grape-Nuts.

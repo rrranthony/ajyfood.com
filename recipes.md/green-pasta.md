@@ -1,13 +1,14 @@
 # Green Pasta
 
 ## Ingredients
-- 1 8-ounce block Parmigiano Reggiano (preferred over Parmesan), cut into chunks after removing the rind (save the rind for a soup)
-- 20 garlic cloves, peeled and roughly chopped
+- 1 8-oz block Parmigiano Reggiano (preferred over Parmesan), cut into chunks after removing the rind (save the rind for a soup)
+- 20 cloves garlic, peeled and roughly chopped
 - 1/2 cup extra-virgin olive oil
 - 1 bunch curly kale, de-ribbed (about 6 ounces once de-ribbed)
 - 10 ounces baby spinach
 - 1 pound bucatini (or your favorite pasta)
-- 1 lemon, zested and juiced
+- Zest of 1 lemon
+- Juice of 1 lemon
 
 ## Steps
 1. Blend the chunks of Parmigiano Reggiano until finely grated. Leave in the blender.

@@ -12,7 +12,7 @@
 - 1/2 cup milk
 
 ## Steps
-1. Heat oven to 325°F.
+1. Heat oven to 325 degrees F.
 2. Cream butter and sugar.
 3. Mix in bananas, eggs, and vanilla extract.
 4. In a separate bowl, combine flour, baking soda, and salt.
@@ -21,5 +21,5 @@
 7. Bake for 45 minutes or until a toothpick comes out clean.
 
 ## Notes
-- Four 3×2×5.5-inch pans: 45-minute bake time  
-- One 9×5×2.5-inch pan: about 1-hour bake time
+- Four 3x2x5.5-inch pans: 45-minute bake time
+- One 9x5x2.5-inch pan: about 1-hour bake time

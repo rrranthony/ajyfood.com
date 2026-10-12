@@ -3,12 +3,12 @@
 ## Ingredients
 - 1 8-oz pizza dough ball
 - Bread flour for dusting dough
-- 4 oz (1 quart) kale leaves, roughly chopped
+- 4 ounces (1 quart) kale leaves, roughly chopped
 - Olive oil
 - Salt and pepper
-- 3 oz Gruyère cheese, grated (Fontina or Jack are okay)
-- 4 oz fresh mozzarella cheese, torn into small chunks
-- 3 garlic cloves, thinly sliced
+- 3 ounces Gruyère cheese, grated (Fontina or Jack are okay)
+- 4 ounces fresh mozzarella cheese, torn into small chunks
+- 3 cloves garlic, thinly sliced
 - Red pepper flakes (optional)
 
 ## Steps

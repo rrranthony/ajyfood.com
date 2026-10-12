@@ -1,12 +1,12 @@
 # Pizza Dough
 
 ## Ingredients
-- 22.5 oz bread flour
-- 0.5 oz sugar
-- 0.35 oz kosher salt
-- 0.35 oz instant yeast
-- 1.125 oz olive oil
-- 15 oz lukewarm water
+- 22.5 ounces bread flour
+- 0.5 ounce sugar
+- 0.35 ounce kosher salt
+- 0.35 ounce instant yeast
+- 1.125 ounces olive oil
+- 15 ounces lukewarm water
 
 ## Steps
 1. Place flour, sugar, salt, and yeast in the food processor.

@@ -2,14 +2,14 @@
 
 ## Ingredients
 - 1 small red onion, thinly sliced
-- 2/3 cups white vinegar
-- 2/3 cups water
+- 2/3 cup white vinegar
+- 2/3 cup water
 - 5 teaspoons sugar
 - 2 teaspoons salt
 
 ## Steps
 1. Place the red onion in a 1-pint mason jar.
-2. Heat the white vingar, water, sugar, and salt in a medium saucepan over medium heat.
+2. Heat the white vinegar, water, sugar, and salt in a medium saucepan over medium heat.
 3. Stir until the sugar and salt dissolve, then remove from heat.
 4. Let mixture cool enough to touch.
 5. Pour mixture into the mason jar.

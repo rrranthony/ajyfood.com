@@ -2,7 +2,7 @@
 
 ## Ingredients
 - 1 yellow onion, diced
-- 3 garlic cloves, minced
+- 3 cloves garlic, minced
 - 1 red bell pepper, diced
 - 2 medium tomatoes, diced, with juices
 - 1/3 cup oil-packed unsalted sun-dried tomatoes, drained and chopped
@@ -11,7 +11,7 @@
 - 1/2 teaspoon ground turmeric
 - 1 teaspoon ground cumin
 - 1 tablespoon nutritional yeast
-- 1 14-ounce package firm or extra-firm tofu, drained and pressed
+- 1 14-oz package firm or extra-firm tofu, drained and pressed
 - 2 teaspoons fresh lemon juice
 - 2 teaspoons salt, to taste
 - Freshly ground black pepper

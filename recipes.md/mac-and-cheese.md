@@ -7,10 +7,10 @@
 - 2 cups (6 ounces) shredded cheddar cheese
 - 1/2 cup heavy cream
 - 1 tablespoon unsalted butter
-- 1 tablespoon (0.5 ounces) cream cheese
+- 1 tablespoon (0.5 ounce) cream cheese
 - 1/4 teaspoon onion powder
 
-## Instructions
+## Steps
 1. Bring the broth to a boil in a large pot over high heat, then reduce heat to medium-high.
 2. Stir in the pasta and salt and simmer for 12 minutes, stirring occasionally, until the pasta is just soft. The liquid will not be totally absorbed.
 3. Turn the heat off and stir in the cheese, heavy cream, butter, cream cheese, and onion powder. Cover and let sit for 5 minutes.

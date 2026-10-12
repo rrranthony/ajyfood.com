@@ -11,4 +11,4 @@
 1. Preheat the oven to 400 degrees F and line a baking sheet with parchment paper.
 2. Combine all ingredients together in a large bowl.
 3. Measure out 1- or 2-tablespoon-size portions to roll into balls and place onto the prepared baking sheet.
-4. Bake for 20-24 minutes until golden brown and cooked through.
+4. Bake for 20 to 24 minutes until golden brown and cooked through.

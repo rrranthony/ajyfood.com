@@ -1,7 +1,6 @@
 # Thai Chop Salad
 
 ## Ingredients
-
 ### Salad
 - 1/2 medium green cabbage (3 cups), finely chopped
 - 1/2 medium purple cabbage (3 cups), finely chopped
@@ -25,7 +24,5 @@
 - 1 teaspoon garlic, minced
 
 ## Steps
-
 1. Mix together dressing ingredients until combined.
 2. Toss all ingredients with dressing.
-3. Enjoy.

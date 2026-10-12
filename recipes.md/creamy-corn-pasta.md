@@ -3,11 +3,11 @@
 ## Ingredients
 - 1 pound farfalle
 - 1 large shallot, diced
-- 2 garlic cloves, minced
-- 2 (16-ounce) bags frozen white corn (yellow is okay)
+- 2 cloves garlic, minced
+- 2 16-oz bags frozen white corn (yellow is okay)
 - 4 tablespoons unsalted butter
 - 1/2 cup water
-- 2 lemons
+- Juice of 2 lemons
 - 2/3 cup grated Parmesan cheese
 - 1 teaspoon dried basil (or 1/2 bunch fresh, thinly sliced)
 
@@ -20,5 +20,5 @@
 6. Transfer the mixture to a blender. Add Parmesan, juice of 1 lemon, and 1 teaspoon kosher salt. Blend until smooth.
 7. Add reserved pasta water as needed to make the sauce pourable and smooth. Taste and adjust with more lemon, salt, or a pinch of sugar if needed.
 8. Return pasta to the pot. Pour in the corn sauce and stir in basil. Toss to combine, adding more pasta water if needed.
-10. Adjust seasoning with additional lemon juice or salt to taste.
-11. Serve in bowls. Garnish with extra Parmesan if desired.
+9. Adjust seasoning with additional lemon juice or salt to taste.
+10. Serve in bowls. Garnish with extra Parmesan if desired.

@@ -14,8 +14,8 @@
 - A few handfuls of salt and vinegar chips
 
 ## Steps
-1. In a jar with a lid, combine the balsamic vinegar, Dijon mustard, maple syrup, and lemon juice. Shake vigorously until emulsified. Add 1 tablespoon water if needed to thin.  
-2. Add the romaine to a large bowl with a big pinch each of salt and pepper.  
-3. Mix in the olives, Manchego, salami, sunflower seeds, and dill.  
-4. Add your desired amount of dressing (start with about 1/3 cup) and toss to coat.  
+1. In a jar with a lid, combine the balsamic vinegar, Dijon mustard, maple syrup, and lemon juice. Shake vigorously until emulsified. Add 1 tablespoon water if needed to thin.
+2. Add the romaine to a large bowl with a big pinch each of salt and pepper.
+3. Mix in the olives, Manchego, salami, sunflower seeds, and dill.
+4. Add your desired amount of dressing (start with about 1/3 cup) and toss to coat.
 5. Crumble the salt and vinegar chips over the top of the salad and serve immediately.

@@ -6,7 +6,7 @@
 - 1/2 cup orange juice
 - Juice of 3 limes
 - 2 bay leaves (optional)
-- 8 garlic cloves, smashed
+- 8 cloves garlic, smashed
 
 ## Steps
 1. Preheat oven to 350 degrees F.

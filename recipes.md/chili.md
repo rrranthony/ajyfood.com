@@ -1,7 +1,7 @@
 # Chili
 
 ## Ingredients
-- 1 lb ground beef
+- 1 pound ground beef
 - 1 15-oz can pinto beans
 - 1 onion, chopped
 - 1 15-oz can tomato sauce

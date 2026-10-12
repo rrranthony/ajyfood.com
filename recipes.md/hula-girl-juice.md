@@ -9,4 +9,3 @@
 
 ## Steps
 1. Blend.
-2. Enjoy.

@@ -3,9 +3,9 @@
 ## Ingredients
 - 1 15-oz can garbanzo beans
 - 2 cloves garlic
-- 2 T lemon juice
-- 1 1/2 T mustard
-- 2 T water
+- 2 tablespoons lemon juice
+- 1 1/2 tablespoons mustard
+- 2 tablespoons water
 
 ## Steps
 1. Drain and rinse the garbanzo beans.

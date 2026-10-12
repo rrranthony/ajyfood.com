@@ -20,4 +20,4 @@
 4. Add the blended spinach mixture to the dry ingredients.
 5. Gently stir or whisk until combined.
 6. Divide batter among the muffin cups, using a heaping 1/4 cup per muffin.
-7. Bake for 14–16 minutes, until edges are lightly golden and a tester comes out clean. Cool on a wire rack.
+7. Bake for 14 to 16 minutes, until edges are lightly golden and a tester comes out clean. Cool on a wire rack.

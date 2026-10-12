@@ -7,7 +7,7 @@
 - 1/2 teaspoon dried oregano
 - 1/2 teaspoon salt
 - 1/4 teaspoon black pepper
-- 1 15-ounce can cannellini beans, drained and rinsed
+- 1 15-oz can cannellini beans, drained and rinsed
 
 ### Thousand island dressing (or use your preferred dressing)
 - 1/2 cup mayonnaise

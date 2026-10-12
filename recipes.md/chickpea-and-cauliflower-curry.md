@@ -10,7 +10,7 @@
 - 1 14-oz can chickpeas, drained and rinsed
 - 1 14-oz can diced tomatoes
 - 1 small head cauliflower, broken into small florets
-- naan
+- Naan
 
 ## Steps
 1. Heat a dutch oven over medium heat.

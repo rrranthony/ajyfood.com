@@ -13,4 +13,4 @@
 1. Assemble the Caesar salad.
 2. Warm the tortilla in the microwave to soften it up before filling and wrapping.
 3. Fill the tortilla with Caesar salad and wrap tightly.
-4. Enjoy as is, or first sear briefly in a skillet to brown the outside.
+4. If desired, sear briefly in a skillet to brown the outside.

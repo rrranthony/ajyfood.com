@@ -4,10 +4,10 @@
 - 1 medium onion, thinly sliced
 - 1 large red bell pepper, thinly sliced
 - 1 jalapeño, seeded and thinly sliced
-- 3 garlic cloves, thinly sliced
+- 3 cloves garlic, thinly sliced
 - 1 1/2 tablespoons smoked paprika
 - 2 teaspoons ground cumin
-- 1 28-ounce can whole peeled tomatoes, with juices, crushed by hand
+- 1 28-oz can whole peeled tomatoes, with juices, crushed by hand
 - 1/2 cup cilantro and/or parsley
 - 6 eggs
 - Optional toppings: sliced black olives, feta cheese, artichoke hearts

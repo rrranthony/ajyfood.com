@@ -1,8 +1,8 @@
 # Potato and Cauliflower Red Thai Curry
 
 ## Ingredients
-- 1 (14-ounce) can coconut milk
-- 1 (14-ounce) can diced tomatoes, with their juices
+- 1 14-oz can coconut milk
+- 1 14-oz can diced tomatoes, with their juices
 - 1/2 small head cauliflower, cut into 1/2-inch florets (2 cups)
 - 2 large yellow potatoes, peeled and cut into 1/2-inch cubes (2 cups)
 - 2 tablespoons red curry paste (Thai Kitchen brand works)

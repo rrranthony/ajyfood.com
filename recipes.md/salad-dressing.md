@@ -7,4 +7,4 @@
 - 1 tablespoon lemon juice
 
 ## Steps
-1. Combine all ingredients and enjoy.
+1. Whisk all ingredients together until combined.

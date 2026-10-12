@@ -23,7 +23,7 @@
 4. Add dry ingredients to wet and mix just until combined.
 5. Fold in ground oats and dark chocolate chips.
 6. Pour into the pan and spread evenly.
-7. Bake for 22-26 minutes, until a toothpick comes out mostly clean (fudgy is good).
+7. Bake for 22 to 26 minutes, until a toothpick comes out mostly clean (fudgy is good).
 8. Cool completely before frosting.
 
 # Chocolate Oat Frosting

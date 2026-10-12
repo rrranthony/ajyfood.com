@@ -17,5 +17,5 @@
 2. Add the egg, grated onion, Worcestershire sauce, ketchup, garlic powder, salt, and pepper to the bowl. Stir well.
 3. Gently mix in the ground beef until just combined. Try not to overmix, as that can make the patties tough.
 4. Form into 8 small patties, about 2 inches in diameter.
-5. Cook the patties in a lightly oiled pan over medium heat, about 3-4 minutes per side. Alternatively, bake on a parchment-lined baking sheet at 375°F for 15-18 minutes.
+5. Cook the patties in a lightly oiled pan over medium heat, about 3 to 4 minutes per side. Alternatively, bake on a parchment-lined baking sheet at 375 degrees F for 15 to 18 minutes.
 6. Serve on mini slider buns and add your favorite toppings.

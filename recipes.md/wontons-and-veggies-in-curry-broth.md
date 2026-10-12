@@ -3,11 +3,11 @@
 ## Ingredients
 - 8 ounces mushrooms, sliced
 - 1 tablespoon red curry paste
-- 1 14-ounce can coconut milk
+- 1 14-oz can coconut milk
 - 2 cups chicken broth
 - 1 tablespoon soy sauce
 - 1 tablespoon fish sauce
-- 1 24-ounce bag frozen mini wontons, potstickers, or dumplings (about 60 mini, or 20 regular size)
+- 1 24-oz bag frozen mini wontons, potstickers, or dumplings (about 60 mini, or 20 regular size)
 - 3 ounces spinach (and/or greens of your choice), chopped
 - 1 tablespoon rice vinegar
 - Optional: 1 block of tofu, cubed

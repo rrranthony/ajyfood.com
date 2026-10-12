@@ -10,8 +10,8 @@
 - 1/2 teaspoon onion powder
 
 ## Steps
-- Preheat the oven to 350 degrees F. Coat an 8x8-inch pan with nonstick cooking spray and line with parchment paper.
-- Cut the stems off the zucchini. Grate using a box grater or food processor. Place in a clean kitchen towel and squeeze out as much liquid as possible. Measure 1 cup tightly packed grated zucchini.
-- In a medium bowl, combine the zucchini with the remaining ingredients. Stir well to make a uniform batter. Pour into the prepared pan.
-- Bake for 25–30 minutes, until the edges are lightly golden and the top is firm and set.
-- Remove from the oven, let cool, then remove from the pan and slice into sticks or squares.
+1. Preheat the oven to 350 degrees F. Coat an 8x8-inch pan with nonstick cooking spray and line with parchment paper.
+2. Cut the stems off the zucchini. Grate using a box grater or food processor. Place in a clean kitchen towel and squeeze out as much liquid as possible. Measure 1 cup tightly packed grated zucchini.
+3. In a medium bowl, combine the zucchini with the remaining ingredients. Stir well to make a uniform batter. Pour into the prepared pan.
+4. Bake for 25 to 30 minutes, until the edges are lightly golden and the top is firm and set.
+5. Remove from the oven, let cool, then remove from the pan and slice into sticks or squares.

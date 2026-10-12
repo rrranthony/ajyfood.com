@@ -26,8 +26,8 @@
 1. Preheat oven to 425 degrees F.
 2. Make the dressing: Combine balsamic vinegar, lemon juice, maple syrup, Dijon mustard, salt, garlic powder, and black pepper in a jar and shake until well combined. Set aside.
 3. Place sliced onion, cubed butternut squash, and dried thyme on a sheet pan. Add 2 tablespoons dressing and 1 teaspoon salt. Toss to coat and spread evenly. Roast 20 minutes.
-5. After 20 minutes, stir vegetables. Add chicken breasts to the sheet pan. Drizzle with a little dressing, season with salt and pepper, and roast 15-20 minutes, until chicken reaches 160 degrees F and squash is tender. Set aside to cool.
-6. Add the kale to a large serving bowl. Add 1/2 teaspoon salt and squeeze kale with your hands 5–10 times until softened.
-7. To the kale add the apple, cranberries (or dates), pecans, and crumbled feta.
-8. Chop the cooled chicken into bite-sized pieces. Add to salad along with roasted squash and onions.
-9. Add desired amount of dressing and toss to combine. Season with salt and pepper to taste. Serve.
+4. After 20 minutes, stir vegetables. Add chicken breasts to the sheet pan. Drizzle with a little dressing, season with salt and pepper, and roast 15 to 20 minutes, until chicken reaches 160 degrees F and squash is tender. Set aside to cool.
+5. Add the kale to a large serving bowl. Add 1/2 teaspoon salt and squeeze kale with your hands 5 to 10 times until softened.
+6. To the kale add the apple, cranberries (or dates), pecans, and crumbled feta.
+7. Chop the cooled chicken into bite-sized pieces. Add to salad along with roasted squash and onions.
+8. Add desired amount of dressing and toss to combine. Season with salt and pepper to taste. Serve.

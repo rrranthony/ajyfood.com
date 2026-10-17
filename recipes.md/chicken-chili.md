@@ -12,6 +12,7 @@
 - 1 teaspoon chili powder
 - 4 cups shredded rotisserie chicken, skin removed
 - 1 bunch curly kale, de-ribbed and chopped
+- 1 bunch cilantro, chopped
 - 1 16-oz bag frozen white corn
 - 1/3 cup heavy cream
 - 1 cup shredded cheddar cheese, plus more for serving
@@ -23,10 +24,10 @@
 1. Combine the broth, beans, salsa verde, cumin, salt, oregano, onion powder, garlic powder, and chili powder in a large pot.
 2. Bring to a boil over high heat, then reduce to medium-low.
 3. Cover and cook for about 10 minutes.
-4. Add the chicken, kale, corn, cream, cheese, and lime juice.
+4. Add the chicken, kale, 1/2 cup of the cilantro, corn, cream, cheese, and lime juice.
 5. Cook uncovered until the kale is wilted and the chili has thickened, about 5 minutes.
 6. Season with salt to taste.
-7. Serve topped with the lime wedges, more cheddar, and any toppings you like.
+7. Serve topped with the remaining cilantro, lime wedges, more cheddar, and any toppings you like.
 
 ## Notes
 - Serves 6 to 8.

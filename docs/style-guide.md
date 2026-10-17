@@ -80,7 +80,10 @@ When a new convention is agreed in a chat, add it here in the same change.
 - Assembly items with no real quantity (wraps, bowls) can skip the amount:
   "Romaine lettuce, chopped".
 - Capitalize the first word of a line that starts with a word.
-- Skip fresh herbs unless critical to the dish; use the dried equivalent instead.
+- When a recipe calls for a fresh herb, use the dried equivalent (dried oregano for fresh oregano),
+  unless the dish would be really negatively altered without fresh.
+- Herbs used as a green (cilantro, parsley in a salad) or as a topping (cilantro or
+  finely diced onion on tacos) stay fresh, like kale.
 - Prefer frozen corn over fresh when only kernels are needed, unless fresh really
   matters to the result.
 - Leave out red pepper flakes unless the recipe depends on the heat.

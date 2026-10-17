@@ -86,6 +86,7 @@ When a new convention is agreed in a chat, add it here in the same change.
   finely diced onion on tacos) stay fresh, like kale.
 - Prefer frozen corn over fresh when only kernels are needed, unless fresh really
   matters to the result.
+- Prefer a simple dice over julienne or matchsticks unless the cut matters to the dish.
 - Leave out red pepper flakes unless the recipe depends on the heat.
 - Leave salt and black pepper out of the list unless a specific quantity matters;
   mention them in the steps instead ("Season with salt to taste.").

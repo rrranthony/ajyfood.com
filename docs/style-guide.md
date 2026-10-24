@@ -77,6 +77,7 @@ When a new convention is agreed in a chat, add it here in the same change.
   meaningfully change the recipe.
 - Alternatives and optional items in parentheses at the end:
   "1 teaspoon ground cumin (or Herbes de Provence)", "2 bay leaves (optional)".
+- Sweeteners: prefer maple syrup. When the primary is maple syrup and the original offers a sugar alternative (brown sugar and the like), drop the alternative and keep maple syrup only.
 - Assembly items with no real quantity (wraps, bowls) can skip the amount:
   "Romaine lettuce, chopped".
 - Capitalize the first word of a line that starts with a word.

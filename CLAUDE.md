@@ -24,6 +24,9 @@ instruction, treat it as an intake and start without asking:
 3. Draft the recipe in house format, with the file name from the style guide.
 4. Show the draft and a "what changed" list: skipped items, substitutions,
    merged or split steps, unit conversions, and anything inferred.
+   Always paste the full recipe markdown in a code block in chat (the owner
+   often reviews from a phone), and again after every revision. This is for the
+   recipe only; style-guide and other changes get a short summary instead.
 5. Apply tweaks given in plain language.
 6. Only on explicit approval: commit ("Add <Title> recipe", or "Update <Title>
    recipe" for edits), push with `scripts/push.sh` in the Food Assistant folder,
@@ -66,6 +69,7 @@ instruction, treat it as an intake and start without asking:
 - The repo lives at `Food Assistant/ajyfood.com` on the Mac. Work on it there
   through the device shell. Don't clone it in Claude's cloud container: that
   side has no GitHub link, so it can't push.
+- Phone or Dispatch start: if `get_device_info` shows no connected folders, call `device_request_folder_access` for `/Users/anthony/Desktop/01 Projects/Food Assistant`. The Mac must be awake with the desktop app running. It was granted on 2026-10-24 (first try failed with no folders linked, second try worked).
 - Never print or Read `.secrets/github-token`; it ends up in the chat. Load it
   into a shell variable instead.
 - To re-clone: clone with the token, then reset `origin` to the plain
